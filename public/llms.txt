@@ -1,0 +1,10 @@
+# Astro Legacy
+
+> A free, phone-first, real-time 3D story for kids (8–15) about the hardware NASA left on the Moon, on Mars and in deep space since 1964. NASA Space Apps Challenge 2026: "Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars". Team VOID, Bangladesh. Not affiliated with or endorsed by NASA.
+
+A guide called VIMO visits 58 machine cards (22 on the main path, 36 side trips): Ranger 7, Surveyor 1 and 3, Apollo 12 Intrepid, Apollo 11 Eagle and its laser mirror (still working), the Apollo 15 rover, Apollo 17, the Lunar Reconnaissance Orbiter, Viking 1, Sojourner, Opportunity, Curiosity, InSight, Perseverance's landing leftovers, Ingenuity, Perseverance and the Three Forks sample depot, Pioneer 10, Voyager 2, Voyager 1 and New Horizons. Each card shows a real NASA photo, a dated status (still working / went quiet / used once), one discovery, and NASA source links.
+
+Data: NASA Image and Video Library (52 photos), NASA 3D Resources (30 models incl. the SLS rocket; 7 main-story machines with no NASA model are shown as labelled Team VOID replicas built from NASA photos and sizes; exhaust, smoke, parachutes, capsule, sky crane and airbags are labelled explanatory effects made in code), NASA History Office Catalogue of Manmade Material on the Moon, NASA SVS Moon Kit, NSSDCA, NASA History, NASA Science, JPL. Partner sources: LROC (ASU), HiRISE (University of Arizona), ESA (Ulysses).
+
+Routes: #/ (start), #/story, #/experience, #/logbook, #/sources, #/data, #/about, #/teachers.
+Repository files: README.md, JUDGES.md, DATA.md, SOURCES.md, AI_USE.md, LICENSE (Apache 2.0), NOTICE.

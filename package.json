@@ -1,0 +1,39 @@
+{
+  "name": "astro-legacy",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Astro Legacy: a scroll-driven 3D story about the machines NASA left on the Moon, on Mars and in deep space. NASA Space Apps Challenge 2026.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "node scripts/validate-data.ts",
+    "test:e2e": "playwright test",
+    "vo:generate": "node scripts/generate-vo.ts",
+    "voice": "node scripts/seamless-voice.mjs",
+    "video": "node scripts/seamless-video.mjs",
+    "frames": "node scripts/render-frames.mjs",
+    "sources": "node scripts/build-sources.ts"
+  },
+  "dependencies": {
+    "@react-three/drei": "9.117.3",
+    "@react-three/fiber": "8.17.10",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.28.0",
+    "three": "0.169.0",
+    "zustand": "4.5.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.48.2",
+    "@types/node": "22.9.0",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@types/three": "0.169.0",
+    "@vitejs/plugin-react": "4.3.3",
+    "typescript": "5.6.3",
+    "vite": "5.4.11"
+  }
+}

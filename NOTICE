@@ -1,0 +1,16 @@
+Astro Legacy
+Copyright 2026 Team VOID
+
+This product includes software and media from third parties:
+
+- NASA images, 3D models and data (NASA Image and Video Library, NASA 3D Resources,
+  NASA Scientific Visualization Studio, NSSDCA). Courtesy of NASA. NASA does not endorse
+  this project. Individual credits are listed in SOURCES.md and in the app.
+- Earth textures from the three.js examples (MIT License), derived from NASA Blue Marble.
+- Draco decoder (Apache License 2.0), copied from three.js examples.
+- three.js (MIT), React (MIT), React Three Fiber and drei (MIT), Zustand (MIT),
+  React Router (MIT).
+- Fonts: Baloo 2, Baloo Da 2, Nunito (SIL Open Font License 1.1), loaded from Google Fonts.
+
+Music and sound effects are generated in the browser by original code. VIMO is an
+original character by Team VOID.

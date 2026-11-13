@@ -1,0 +1,943 @@
+{
+  "_note": "status: working | quiet | used-once | crashed | lost (sorting game: still working / went quiet / used once or crashed on purpose). statusFacts must be verified facts; a status without one is not shown. video=true: gold-star feature episode (docs/05). card: doc 06 text where it exists; null = to write in Step 4 (draft, needs review). Side trips: facts come from the Hardware Atlas and are NOT checked yet (Tier 3).",
+  "machines": [
+    {
+      "id": "ranger7",
+      "name": "Ranger 7",
+      "year": 1964,
+      "world": "moon",
+      "site": "Mare Cognitum (Sea of Clouds area)",
+      "path": "main",
+      "type": "probe",
+      "status": "crashed",
+      "statusLabel": "Crashed on purpose, 1964",
+      "statusFacts": [
+        "ranger7-impact"
+      ],
+      "video": false,
+      "model": {
+        "kind": "team",
+        "note": "No NASA model: team model or NASA photos"
+      },
+      "card": {
+        "big": "It fell toward the Moon on purpose, snapping pictures.",
+        "why": "4,308 close-ups showed the Moon far sharper than any telescope on Earth.",
+        "game": "fall-ranger7",
+        "sourceUrl": "https://www.nasa.gov/history/60-years-ago-ranger-7-photographs-the-moon/",
+        "facts": [
+          "ranger7-images",
+          "ranger7-sharper"
+        ]
+      }
+    },
+    {
+      "id": "surveyor1",
+      "name": "Surveyor 1",
+      "year": 1966,
+      "world": "moon",
+      "site": "Ocean of Storms",
+      "path": "main",
+      "type": "lander",
+      "status": "quiet",
+      "statusLabel": "Went quiet in 1967. Still there.",
+      "statusFacts": [
+        "surveyor1-contact"
+      ],
+      "video": false,
+      "model": {
+        "kind": "team",
+        "note": "No NASA model: team Surveyor model"
+      },
+      "card": {
+        "big": "The first American spacecraft to land softly on the Moon.",
+        "why": "It proved the ground could hold a lander, so people could come next.",
+        "game": "land-softly",
+        "sourceUrl": "https://www.nasa.gov/history/55-years-ago-surveyor-1-makes-a-soft-landing-on-the-moon/",
+        "facts": [
+          "surveyor1-landing",
+          "surveyor1-proved"
+        ]
+      }
+    },
+    {
+      "id": "surveyor3",
+      "name": "Surveyor 3",
+      "year": 1967,
+      "world": "moon",
+      "site": "Ocean of Storms",
+      "path": "main",
+      "type": "lander",
+      "status": "quiet",
+      "statusLabel": "Went quiet. Visited in 1969. Some parts came home.",
+      "statusFacts": [
+        "surveyor3-visit"
+      ],
+      "video": true,
+      "model": {
+        "kind": "team",
+        "note": "Reuse team Surveyor model"
+      },
+      "card": {
+        "draft": true,
+        "big": "Astronauts walked over and brought its camera home.",
+        "why": "Its parts showed engineers what 31 months on the Moon does to a machine.",
+        "game": "find-camera",
+        "sourceUrl": "https://www.nasa.gov/image-article/astronauts-pay-visit-surveyor-3/",
+        "facts": [
+          "surveyor3-visit"
+        ]
+      }
+    },
+    {
+      "id": "apollo12-intrepid",
+      "name": "Apollo 12 Intrepid",
+      "year": 1969,
+      "world": "moon",
+      "site": "Ocean of Storms",
+      "path": "main",
+      "type": "descent stage",
+      "status": "used-once",
+      "statusLabel": "Bottom half still on the Moon",
+      "statusFacts": [
+        "apollo12-precise"
+      ],
+      "video": false,
+      "model": {
+        "kind": "nasa-twin",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module",
+        "file": "assets/models/apollo-lunar-module.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "big": "Landed so precisely, the crew walked to an old robot.",
+        "why": "Its science station felt the Moon shake for nearly an hour after a planned crash.",
+        "game": "ring-moon",
+        "sourceUrl": "https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/",
+        "facts": [
+          "apollo12-precise",
+          "apollo12-ring"
+        ]
+      }
+    },
+    {
+      "id": "apollo11-eagle",
+      "name": "Apollo 11 Eagle",
+      "year": 1969,
+      "world": "moon",
+      "site": "Sea of Tranquility",
+      "path": "main",
+      "type": "descent stage",
+      "status": "used-once",
+      "statusLabel": "Used once. Bottom half still standing.",
+      "statusFacts": [
+        "apollo11-descent-stage",
+        "lro-apollo-sites"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module",
+        "file": "assets/models/apollo-lunar-module.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "Its bottom half is still standing on the Moon.",
+        "why": "It was the launch pad for the top half, which flew the astronauts home.",
+        "game": "spin-eagle",
+        "sourceUrl": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C",
+        "facts": [
+          "apollo11-descent-stage",
+          "lro-apollo-sites"
+        ]
+      }
+    },
+    {
+      "id": "laser-mirror",
+      "name": "Apollo 11 laser mirror",
+      "year": 1969,
+      "world": "moon",
+      "site": "Sea of Tranquility",
+      "path": "main",
+      "type": "instrument",
+      "status": "working",
+      "statusLabel": "Still working!",
+      "statusFacts": [
+        "lrr-still-used"
+      ],
+      "video": false,
+      "model": {
+        "kind": "team",
+        "note": "No NASA model: team model"
+      },
+      "card": {
+        "big": "A mirror on the Moon that still answers.",
+        "why": "Bouncing light off it shows the Moon drifts about 3.8 cm farther away every year.",
+        "game": "call-moon",
+        "sourceUrl": "https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/",
+        "facts": [
+          "lrr-still-used",
+          "lrr-recede"
+        ]
+      }
+    },
+    {
+      "id": "apollo15-rover",
+      "name": "Apollo 15 Lunar Roving Vehicle",
+      "year": 1971,
+      "world": "moon",
+      "site": "Hadley Rille",
+      "path": "main",
+      "type": "rover",
+      "status": "used-once",
+      "statusLabel": "Still parked on the Moon",
+      "statusFacts": [
+        "lrv-still-there"
+      ],
+      "video": true,
+      "model": {
+        "kind": "team",
+        "note": "No NASA rover model; LM twin + Apollo 15 site print"
+      },
+      "card": {
+        "draft": true,
+        "big": "A folding car that drove astronauts 27.8 km.",
+        "why": "Woven wire wheels and battery power let them explore much farther than walking.",
+        "game": "find-antenna",
+        "sourceUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html",
+        "facts": [
+          "lrv-apollo15"
+        ]
+      }
+    },
+    {
+      "id": "apollo17",
+      "name": "Apollo 17 Challenger + rover",
+      "year": 1972,
+      "world": "moon",
+      "site": "Taurus-Littrow",
+      "path": "main",
+      "type": "descent stage",
+      "status": "used-once",
+      "statusLabel": "Resting on the surface",
+      "statusFacts": [
+        "apollo17-last",
+        "lrv-still-there"
+      ],
+      "video": false,
+      "model": {
+        "kind": "nasa-twin",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Apollo%20Lunar%20Module",
+        "file": "assets/models/apollo-lunar-module.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "big": "The last footsteps, and a fender fixed with tape.", "changed": "doc 06 line was 11 words (rule: 10); removed \"maps and\"",
+        "why": "Their rover drove 35.9 km, the most of all three Moon cars.",
+        "game": "fix-fender",
+        "sourceUrl": "https://www.nasa.gov/image-article/duct-tape-saves-day/",
+        "facts": [
+          "apollo17-fender",
+          "apollo17-rover-distance"
+        ]
+      }
+    },
+    {
+      "id": "lro",
+      "name": "Lunar Reconnaissance Orbiter",
+      "year": 2009,
+      "world": "moon",
+      "site": "Moon orbit",
+      "path": "main",
+      "type": "probe",
+      "status": "working",
+      "statusLabel": "Still working (NASA, 2024)",
+      "statusFacts": [
+        "lro-status"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Lunar%20Reconnaissance%20Orbiter%20%28A%29",
+        "file": "assets/models/lro.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "A camera in orbit that still sees the Apollo sites.",
+        "why": "From about 50 km up it photographed all six landing sites, footpaths and rovers.",
+        "game": "find-leftovers",
+        "sourceUrl": "https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/",
+        "facts": [
+          "lro-apollo-sites"
+        ]
+      }
+    },
+    {
+      "id": "viking1",
+      "name": "Viking 1",
+      "year": 1976,
+      "world": "mars",
+      "site": "Chryse Planitia",
+      "path": "main",
+      "type": "lander",
+      "status": "quiet",
+      "statusLabel": "Worked until 1982. Went quiet.",
+      "statusFacts": [
+        "viking1-duration"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Viking%20Lander",
+        "file": "assets/models/viking-lander.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "Its first photo on Mars showed its own foot.",
+        "why": "Then it scooped soil to look for life: strange chemistry, but no clear answer.",
+        "game": "find-scoop",
+        "sourceUrl": "https://science.nasa.gov/mission/viking/",
+        "facts": [
+          "viking1-first-photo",
+          "viking1-soil"
+        ]
+      }
+    },
+    {
+      "id": "pathfinder-sojourner",
+      "name": "Mars Pathfinder + Sojourner",
+      "year": 1997,
+      "world": "mars",
+      "site": "Ares Vallis",
+      "path": "main",
+      "type": "rover",
+      "status": "quiet",
+      "statusLabel": "Resting on the surface",
+      "statusFacts": [
+        "sojourner"
+      ],
+      "video": true,
+      "model": {
+        "kind": "team",
+        "note": "No NASA model: team model"
+      },
+      "card": {
+        "draft": true,
+        "big": "The first rover on another planet.",
+        "why": "Built for one week, it worked for 83 days and proved rovers can drive on Mars.",
+        "game": "drive-sojourner",
+        "sourceUrl": "https://www.nasa.gov/history/25-years-ago-mars-pathfinder-launches-to-mars-to-deploy-sojourner-the-first-planetary-rover/",
+        "facts": [
+          "sojourner"
+        ]
+      }
+    },
+    {
+      "id": "opportunity",
+      "name": "Opportunity",
+      "year": 2004,
+      "world": "mars",
+      "site": "Meridiani Planum",
+      "path": "main",
+      "type": "rover",
+      "status": "quiet",
+      "statusLabel": "Went quiet in 2018. Mission complete.",
+      "statusFacts": [
+        "opp-storm"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Mars%20Exploration%20Rover%20-%20Opportunity%20%28MER-B%29",
+        "file": "assets/models/opportunity.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "Built for 90 days, it explored for almost 15 years.",
+        "why": "It found hematite, a mineral that forms in water: Mars was once wet.",
+        "game": "water-clue",
+        "sourceUrl": "https://science.nasa.gov/missions/mer/nasas-opportunity-rover-mission-on-mars-comes-to-end/",
+        "facts": [
+          "opp-mission",
+          "opp-hematite"
+        ]
+      }
+    },
+    {
+      "id": "curiosity",
+      "name": "Curiosity + landing leftovers",
+      "year": 2012,
+      "world": "mars",
+      "site": "Gale Crater",
+      "path": "main",
+      "type": "rover",
+      "status": "working",
+      "statusLabel": "Still working (NASA, Sept 2026)",
+      "statusFacts": [
+        "curiosity-status"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Curiosity%20Rover%20%28MSL%29",
+        "file": "assets/models/curiosity.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "A rover climbing a mountain to read Mars' history.",
+        "why": "It found that ancient Gale Crater had water where tiny microbes could have lived.",
+        "game": "find-laser",
+        "sourceUrl": "https://www.nasa.gov/history/curiosity-celebrates-10-years-on-mars/",
+        "facts": [
+          "curiosity-climb",
+          "curiosity-habitable"
+        ]
+      }
+    },
+    {
+      "id": "insight",
+      "name": "InSight",
+      "year": 2018,
+      "world": "mars",
+      "site": "Elysium Planitia",
+      "path": "main",
+      "type": "lander",
+      "status": "quiet",
+      "statusLabel": "Retired December 2022 (dusty panels)",
+      "statusFacts": [
+        "insight-end"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/InSight%20Cruise%20Lander",
+        "file": "assets/models/insight.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "It listened to Mars and felt 1,319 marsquakes.",
+        "why": "The quake waves showed what is inside Mars: its crust, mantle and core.",
+        "game": "marsquake",
+        "sourceUrl": "https://www.nasa.gov/missions/insight/nasa-retires-insight-mars-lander-mission-after-years-of-science/",
+        "facts": [
+          "insight-quakes"
+        ]
+      }
+    },
+    {
+      "id": "perseverance-parachute",
+      "name": "Perseverance's parachute + backshell",
+      "year": 2021,
+      "world": "mars",
+      "site": "Jezero Crater",
+      "path": "main",
+      "type": "landing leftovers",
+      "status": "used-once",
+      "statusLabel": "Used once. Resting in Jezero Crater.",
+      "statusFacts": [
+        "parachute-gear"
+      ],
+      "video": false,
+      "model": {
+        "kind": "team",
+        "note": "Team flat parachute model"
+      },
+      "card": {
+        "big": "A parachute with a secret code.",
+        "why": "Its pattern hides DARE MIGHTY THINGS, and it helped land a car-sized rover.",
+        "game": "crack-code",
+        "sourceUrl": "https://science.nasa.gov/resource/mars-decoder-ring/",
+        "facts": [
+          "parachute-code",
+          "parachute-gear"
+        ]
+      }
+    },
+    {
+      "id": "ingenuity",
+      "name": "Ingenuity",
+      "year": 2021,
+      "world": "mars",
+      "site": "Jezero Crater",
+      "path": "main",
+      "type": "helicopter",
+      "status": "quiet",
+      "statusLabel": "Flew 72 times. Grounded in 2024. Still wakes up daily.",
+      "statusFacts": [
+        "ingenuity-end",
+        "ingenuity-testbed"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Ingenuity%20Mars%20Helicopter",
+        "file": "assets/models/ingenuity.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "The first powered flight on another planet.",
+        "why": "Planned for up to five test flights, it flew 72 times.",
+        "game": "fly-ingenuity",
+        "sourceUrl": "https://www.jpl.nasa.gov/news/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/",
+        "facts": [
+          "ingenuity-flights"
+        ]
+      }
+    },
+    {
+      "id": "perseverance-depot",
+      "name": "Perseverance + Three Forks depot",
+      "year": 2021,
+      "world": "mars",
+      "site": "Jezero Crater",
+      "path": "main",
+      "type": "rover",
+      "status": "working",
+      "statusLabel": "Still working (NASA, Oct 2026). Tubes waiting on the ground.",
+      "statusFacts": [
+        "perseverance-status",
+        "perseverance-depot"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Mars%202020%20Perseverance%20Rover",
+        "file": "assets/models/perseverance.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "Ten tubes of Mars rock, left on purpose.",
+        "why": "The first sample depot on another world: a backup, waiting for a ride to Earth.",
+        "game": "count-tubes",
+        "sourceUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-completes-mars-sample-depot/",
+        "facts": [
+          "perseverance-depot"
+        ]
+      }
+    },
+    {
+      "id": "pioneer10",
+      "name": "Pioneer 10",
+      "year": 1972,
+      "world": "deep",
+      "site": "Heading toward Aldebaran",
+      "path": "main",
+      "type": "probe",
+      "status": "quiet",
+      "statusLabel": "Went quiet in 2003. Still travelling.",
+      "statusFacts": [
+        "pioneer10"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Pioneer%2010",
+        "file": "assets/models/pioneer10.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "The first spacecraft through the asteroid belt and past Jupiter.",
+        "why": "Its last signal came in 2003; it is still travelling, carrying a message plaque.",
+        "game": null,
+        "sourceUrl": "https://science.nasa.gov/mission/pioneer-10/",
+        "facts": [
+          "pioneer10",
+          "pioneer10-plaque"
+        ]
+      }
+    },
+    {
+      "id": "voyager2",
+      "name": "Voyager 2",
+      "year": 1977,
+      "world": "deep",
+      "site": "Interstellar space",
+      "path": "main",
+      "type": "probe",
+      "status": "working",
+      "statusLabel": "Still working",
+      "statusFacts": [
+        "voyager2"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-print",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Printing/Voyager",
+        "file": "assets/models/voyager.glb",
+        "credit": "NASA 3D Resources",
+        "note": "Shown with the NASA Voyager Probe (A) model (twin of Voyager 1)"
+      },
+      "card": {
+        "draft": true,
+        "big": "The only visitor Uranus and Neptune have ever had.",
+        "why": "It reached interstellar space in 2018 and is still sending data home.",
+        "game": "planet-parade",
+        "sourceUrl": "https://science.nasa.gov/mission/voyager/voyager-2/",
+        "facts": [
+          "voyager2"
+        ]
+      }
+    },
+    {
+      "id": "voyager1",
+      "name": "Voyager 1",
+      "year": 1977,
+      "world": "deep",
+      "site": "Interstellar space",
+      "path": "main",
+      "type": "probe",
+      "status": "working",
+      "statusLabel": "Still working. One light-day from Earth on 18 Nov 2026.",
+      "statusFacts": [
+        "voyager1",
+        "voyager1-lightday"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-exact",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Voyager%20Probe%20%28A%29",
+        "file": "assets/models/voyager.glb",
+        "credit": "NASA 3D Resources"
+      },
+      "card": {
+        "draft": true,
+        "big": "The farthest thing people have ever made.",
+        "why": "On 18 November 2026 its signal takes a whole day to reach us.",
+        "game": "golden-record",
+        "sourceUrl": "https://science.nasa.gov/mission/voyager/voyager-1/",
+        "facts": [
+          "voyager1",
+          "voyager1-lightday"
+        ]
+      }
+    },
+    {
+      "id": "new-horizons",
+      "name": "New Horizons",
+      "year": 2006,
+      "world": "deep",
+      "site": "Kuiper Belt",
+      "path": "main",
+      "type": "probe",
+      "status": "working",
+      "statusLabel": "Still working!",
+      "statusFacts": [
+        "nh-arrokoth"
+      ],
+      "video": true,
+      "model": {
+        "kind": "nasa-print",
+        "url": "https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Printing/New%20Horizons",
+        "file": "assets/models/new-horizons.glb",
+        "credit": "NASA 3D Resources",
+        "note": "Body part of the NASA 3D-print set only; antenna + RTG need NASA assembly.pdf to place (TODO(model))"
+      },
+      "card": {
+        "draft": true,
+        "big": "It showed us Pluto's giant heart.",
+        "why": "Half the heart is a glacier of frozen nitrogen, about 1,000 km wide.",
+        "game": "find-heart",
+        "sourceUrl": "https://science.nasa.gov/mission/new-horizons/",
+        "facts": [
+          "nh-pluto"
+        ]
+      }
+    },
+    {
+      "id": "ranger8-9",
+      "name": "Ranger 8 & 9",
+      "year": 1965,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA23520"
+    },
+    {
+      "id": "lunar-orbiters",
+      "name": "Lunar Orbiters 1–5",
+      "year": 1966,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/LRC-1966-B701_P-07825"
+    },
+    {
+      "id": "surveyor5-6-7",
+      "name": "Surveyor 5, 6 & 7",
+      "year": 1967,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA02977"
+    },
+    {
+      "id": "apollo10-snoopy",
+      "name": "Apollo 10 Snoopy",
+      "year": 1969,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/as10-34-5112"
+    },
+    {
+      "id": "apollo12-sivb",
+      "name": "Apollo 12 rocket stage",
+      "year": 1969,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/as08-16-2584"
+    },
+    {
+      "id": "apollo13-sivb",
+      "name": "Apollo 13 rocket stage",
+      "year": 1970,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000501"
+    },
+    {
+      "id": "apollo14-antares",
+      "name": "Apollo 14 Antares",
+      "year": 1971,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/as14-64-9140"
+    },
+    {
+      "id": "apollo16-orion",
+      "name": "Apollo 16 Orion",
+      "year": 1972,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/as16-113-18339"
+    },
+    {
+      "id": "lunar-prospector",
+      "name": "Lunar Prospector",
+      "year": 1998,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-98PC107"
+    },
+    {
+      "id": "lcross",
+      "name": "LCROSS + Centaur",
+      "year": 2009,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-2009-1754"
+    },
+    {
+      "id": "grail",
+      "name": "GRAIL Ebb & Flow",
+      "year": 2011,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-2011-6510"
+    },
+    {
+      "id": "ladee",
+      "name": "LADEE",
+      "year": 2013,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/201309060010HQ"
+    },
+    {
+      "id": "odysseus",
+      "name": "Odysseus (IM-1)",
+      "year": 2024,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/IM_00309"
+    },
+    {
+      "id": "blue-ghost",
+      "name": "Blue Ghost Mission 1",
+      "year": 2025,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-20250114-PH-KLS01_0039"
+    },
+    {
+      "id": "athena",
+      "name": "Athena (IM-2)",
+      "year": 2025,
+      "world": "moon",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-20250226-PH-FMX01_0009"
+    },
+    {
+      "id": "mariner9",
+      "name": "Mariner 9",
+      "year": 1971,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA02995"
+    },
+    {
+      "id": "viking2",
+      "name": "Viking 2",
+      "year": 1976,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA00573"
+    },
+    {
+      "id": "mgs",
+      "name": "Mars Global Surveyor",
+      "year": 1997,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-96pc1002"
+    },
+    {
+      "id": "mars-polar-lander",
+      "name": "Mars Polar Lander + Deep Space 2",
+      "year": 1999,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-98pc1229"
+    },
+    {
+      "id": "mars-odyssey",
+      "name": "2001 Mars Odyssey",
+      "year": 2001,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA20331"
+    },
+    {
+      "id": "spirit",
+      "name": "Spirit",
+      "year": 2004,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA05040"
+    },
+    {
+      "id": "mro",
+      "name": "Mars Reconnaissance Orbiter",
+      "year": 2006,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA07212"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "year": 2008,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA10701"
+    },
+    {
+      "id": "maven",
+      "name": "MAVEN",
+      "year": 2014,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-2013-3660"
+    },
+    {
+      "id": "marco",
+      "name": "MarCO-A & B",
+      "year": 2018,
+      "world": "mars",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA22319"
+    },
+    {
+      "id": "pioneer11",
+      "name": "Pioneer 11",
+      "year": 1973,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/ARC-1972-AC72-2135"
+    },
+    {
+      "id": "ulysses",
+      "name": "Ulysses",
+      "year": 1990,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/90PC-1357"
+    },
+    {
+      "id": "near-shoemaker",
+      "name": "NEAR Shoemaker",
+      "year": 1996,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/9701593"
+    },
+    {
+      "id": "deep-space-1",
+      "name": "Deep Space 1",
+      "year": 1998,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-98pc1264"
+    },
+    {
+      "id": "stardust",
+      "name": "Stardust",
+      "year": 1999,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA03669"
+    },
+    {
+      "id": "spitzer",
+      "name": "Spitzer",
+      "year": 2003,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA23644"
+    },
+    {
+      "id": "messenger",
+      "name": "MESSENGER",
+      "year": 2004,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/KSC-04pd0431"
+    },
+    {
+      "id": "deep-impact",
+      "name": "Deep Impact",
+      "year": 2005,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA02137"
+    },
+    {
+      "id": "dawn",
+      "name": "Dawn",
+      "year": 2007,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA12018"
+    },
+    {
+      "id": "kepler",
+      "name": "Kepler",
+      "year": 2009,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/PIA11188"
+    },
+    {
+      "id": "dart",
+      "name": "DART",
+      "year": 2021,
+      "world": "deep",
+      "path": "side",
+      "cardSourceUrl": "https://images.nasa.gov/details/NHQ202111230027"
+    }
+  ]
+}

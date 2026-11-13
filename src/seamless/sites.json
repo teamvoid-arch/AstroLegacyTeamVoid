@@ -1,0 +1,1625 @@
+{
+ "_source": "Where We Left Them map (Astro Legacy artifact, checked Nov 2026): landing/impact coordinates from NASA mission records (NSSDCA) and published lists. Photos stripped.",
+ "moon": {
+  "sites": [
+   {
+    "label": "Ranger 7",
+    "lat": -10.63,
+    "lon": -20.68,
+    "place": "Mare Cognitum",
+    "pins": [
+     {
+      "name": "Ranger 7",
+      "year": 1964,
+      "entry": "Ranger 7"
+     }
+    ]
+   },
+   {
+    "label": "Ranger 8",
+    "lat": 2.67,
+    "lon": 24.65,
+    "place": "Sea of Tranquility",
+    "pins": [
+     {
+      "name": "Ranger 8",
+      "year": 1965,
+      "entry": "Ranger 8 & Ranger 9"
+     }
+    ]
+   },
+   {
+    "label": "Ranger 9",
+    "lat": -12.83,
+    "lon": -2.39,
+    "place": "Alphonsus crater",
+    "pins": [
+     {
+      "name": "Ranger 9",
+      "year": 1965,
+      "entry": "Ranger 8 & Ranger 9"
+     }
+    ]
+   },
+   {
+    "label": "Surveyor 1",
+    "lat": -2.47,
+    "lon": -43.34,
+    "place": "Ocean of Storms",
+    "pins": [
+     {
+      "name": "Surveyor 1",
+      "year": 1966,
+      "entry": "Surveyor 1"
+     }
+    ]
+   },
+   {
+    "label": "Lunar Orbiter 1",
+    "lat": 6.35,
+    "lon": 160.72,
+    "place": "Far side",
+    "pins": [
+     {
+      "name": "Lunar Orbiter 1",
+      "year": 1966,
+      "entry": "Lunar Orbiters 1–5"
+     }
+    ]
+   },
+   {
+    "label": "Lunar Orbiter 2",
+    "lat": 3,
+    "lon": 119.1,
+    "place": "Far side",
+    "pins": [
+     {
+      "name": "Lunar Orbiter 2",
+      "year": 1967,
+      "entry": "Lunar Orbiters 1–5"
+     }
+    ]
+   },
+   {
+    "label": "Lunar Orbiter 3",
+    "lat": 14.3,
+    "lon": -97.7,
+    "place": "Far side, west limb",
+    "pins": [
+     {
+      "name": "Lunar Orbiter 3",
+      "year": 1967,
+      "entry": "Lunar Orbiters 1–5"
+     }
+    ]
+   },
+   {
+    "label": "Lunar Orbiter 5",
+    "lat": -2.79,
+    "lon": -83,
+    "place": "West limb",
+    "pins": [
+     {
+      "name": "Lunar Orbiter 5",
+      "year": 1968,
+      "entry": "Lunar Orbiters 1–5"
+     }
+    ]
+   },
+   {
+    "label": "Snowman crater",
+    "lat": -3.01,
+    "lon": -23.42,
+    "place": "Ocean of Storms",
+    "pins": [
+     {
+      "name": "Surveyor 3",
+      "year": 1967,
+      "entry": "Surveyor 3"
+     },
+     {
+      "name": "Apollo 12 — Intrepid",
+      "year": 1969,
+      "entry": "Apollo 12 site — Intrepid"
+     }
+    ]
+   },
+   {
+    "label": "Surveyor 5",
+    "lat": 1.41,
+    "lon": 23.18,
+    "place": "Sea of Tranquility",
+    "pins": [
+     {
+      "name": "Surveyor 5",
+      "year": 1967,
+      "entry": "Surveyor 5, 6 & 7"
+     }
+    ]
+   },
+   {
+    "label": "Surveyor 6",
+    "lat": 0.49,
+    "lon": -1.4,
+    "place": "Sinus Medii",
+    "pins": [
+     {
+      "name": "Surveyor 6",
+      "year": 1967,
+      "entry": "Surveyor 5, 6 & 7"
+     }
+    ]
+   },
+   {
+    "label": "Surveyor 7",
+    "lat": -40.97,
+    "lon": -11.44,
+    "place": "Near Tycho crater",
+    "pins": [
+     {
+      "name": "Surveyor 7",
+      "year": 1968,
+      "entry": "Surveyor 5, 6 & 7"
+     }
+    ]
+   },
+   {
+    "label": "Tranquility Base",
+    "lat": 0.674,
+    "lon": 23.473,
+    "place": "Sea of Tranquility",
+    "pins": [
+     {
+      "name": "Apollo 11 — Eagle",
+      "year": 1969,
+      "entry": "Apollo 11 site — Eagle"
+     }
+    ]
+   },
+   {
+    "label": "Apollo 13 rocket stage",
+    "lat": -2.55,
+    "lon": -27.88,
+    "place": "Ocean of Storms",
+    "pins": [
+     {
+      "name": "Apollo 13 S-IVB",
+      "year": 1970,
+      "entry": "Apollo 13 S-IVB rocket stage"
+     }
+    ]
+   },
+   {
+    "label": "Fra Mauro",
+    "lat": -3.645,
+    "lon": -17.471,
+    "place": "Fra Mauro highlands",
+    "pins": [
+     {
+      "name": "Apollo 14 — Antares",
+      "year": 1971,
+      "entry": "Apollo 14 site — Antares"
+     }
+    ]
+   },
+   {
+    "label": "Hadley–Apennine",
+    "lat": 26.132,
+    "lon": 3.634,
+    "place": "Hadley Rille",
+    "pins": [
+     {
+      "name": "Apollo 15 — Falcon + Rover 1",
+      "year": 1971,
+      "entry": "Apollo 15 site — Falcon + Rover 1"
+     }
+    ]
+   },
+   {
+    "label": "Descartes",
+    "lat": -8.973,
+    "lon": 15.5,
+    "place": "Descartes Highlands",
+    "pins": [
+     {
+      "name": "Apollo 16 — Orion + Rover 2",
+      "year": 1972,
+      "entry": "Apollo 16 site — Orion + Rover 2"
+     }
+    ]
+   },
+   {
+    "label": "Taurus–Littrow",
+    "lat": 20.191,
+    "lon": 30.772,
+    "place": "Taurus–Littrow valley",
+    "pins": [
+     {
+      "name": "Apollo 17 — Challenger + Rover 3",
+      "year": 1972,
+      "entry": "Apollo 17 site — Challenger + Rover 3"
+     }
+    ]
+   },
+   {
+    "label": "Lunar Prospector",
+    "lat": -87.7,
+    "lon": 42.1,
+    "place": "Near Shoemaker crater, south pole",
+    "pins": [
+     {
+      "name": "Lunar Prospector",
+      "year": 1999,
+      "entry": "Lunar Prospector"
+     }
+    ]
+   },
+   {
+    "label": "Cabeus crater",
+    "lat": -84.68,
+    "lon": -48.7,
+    "place": "South pole",
+    "pins": [
+     {
+      "name": "LCROSS + Centaur",
+      "year": 2009,
+      "entry": "LCROSS + Centaur stage"
+     }
+    ]
+   },
+   {
+    "label": "Sally K. Ride site",
+    "lat": 75.62,
+    "lon": -26.63,
+    "place": "Near the north pole",
+    "pins": [
+     {
+      "name": "GRAIL Ebb & Flow",
+      "year": 2012,
+      "entry": "GRAIL — Ebb & Flow"
+     }
+    ]
+   },
+   {
+    "label": "LADEE",
+    "lat": 11.84,
+    "lon": -93.25,
+    "place": "Far side, east rim of Sundman V",
+    "pins": [
+     {
+      "name": "LADEE",
+      "year": 2014,
+      "entry": "LADEE"
+     }
+    ]
+   },
+   {
+    "label": "Malapert A",
+    "lat": -80.13,
+    "lon": 1.44,
+    "place": "South pole region",
+    "pins": [
+     {
+      "name": "Odysseus (IM-1)",
+      "year": 2024,
+      "entry": "Odysseus (IM-1)"
+     }
+    ]
+   },
+   {
+    "label": "Mare Crisium",
+    "lat": 18.56,
+    "lon": 61.81,
+    "place": "Sea of Crises",
+    "pins": [
+     {
+      "name": "Blue Ghost Mission 1",
+      "year": 2025,
+      "entry": "Blue Ghost Mission 1"
+     }
+    ]
+   },
+   {
+    "label": "Mons Mouton",
+    "lat": -84.79,
+    "lon": 29.19,
+    "place": "South pole",
+    "pins": [
+     {
+      "name": "Athena (IM-2)",
+      "year": 2025,
+      "entry": "Athena (IM-2)"
+     }
+    ]
+   }
+  ],
+  "orbit": [
+   {
+    "name": "Lunar Reconnaissance Orbiter",
+    "year": 2009,
+    "entry": "Lunar Reconnaissance Orbiter"
+   }
+  ]
+ },
+ "mars": {
+  "sites": [
+   {
+    "label": "Chryse Planitia",
+    "lat": 22.27,
+    "lon": -47.95,
+    "place": "Chryse Planitia",
+    "pins": [
+     {
+      "name": "Viking 1 Lander",
+      "year": 1976,
+      "entry": "Viking 1 Lander"
+     }
+    ]
+   },
+   {
+    "label": "Utopia Planitia",
+    "lat": 47.64,
+    "lon": 134.29,
+    "place": "Utopia Planitia",
+    "pins": [
+     {
+      "name": "Viking 2 Lander",
+      "year": 1976,
+      "entry": "Viking 2 Lander"
+     }
+    ]
+   },
+   {
+    "label": "Ares Vallis",
+    "lat": 19.13,
+    "lon": -33.22,
+    "place": "Ares Vallis",
+    "pins": [
+     {
+      "name": "Pathfinder + Sojourner",
+      "year": 1997,
+      "entry": "Mars Pathfinder + Sojourner"
+     }
+    ]
+   },
+   {
+    "label": "Near the south pole",
+    "lat": -76.57,
+    "lon": 165.2,
+    "place": "Planum Australe (planned site; wreck not found)",
+    "pins": [
+     {
+      "name": "Mars Polar Lander + Deep Space 2",
+      "year": 1999,
+      "entry": "Mars Polar Lander + Deep Space 2"
+     }
+    ]
+   },
+   {
+    "label": "Gusev crater",
+    "lat": -14.57,
+    "lon": 175.47,
+    "place": "Gusev crater",
+    "pins": [
+     {
+      "name": "Spirit rover",
+      "year": 2004,
+      "entry": "Spirit rover"
+     }
+    ]
+   },
+   {
+    "label": "Endeavour crater",
+    "lat": -2.2,
+    "lon": -5.5,
+    "place": "Perseverance Valley, Endeavour crater",
+    "pins": [
+     {
+      "name": "Opportunity rover",
+      "year": 2004,
+      "entry": "Opportunity rover"
+     }
+    ]
+   },
+   {
+    "label": "Vastitas Borealis",
+    "lat": 68.22,
+    "lon": -125.75,
+    "place": "Vastitas Borealis, north polar plains",
+    "pins": [
+     {
+      "name": "Phoenix lander",
+      "year": 2008,
+      "entry": "Phoenix lander"
+     }
+    ]
+   },
+   {
+    "label": "Gale crater",
+    "lat": -4.7,
+    "lon": 137.4,
+    "place": "Gale crater, Mount Sharp",
+    "pins": [
+     {
+      "name": "Curiosity rover",
+      "year": 2012,
+      "entry": "Curiosity rover"
+     }
+    ]
+   },
+   {
+    "label": "Elysium Planitia",
+    "lat": 4.5,
+    "lon": 135.62,
+    "place": "Elysium Planitia",
+    "pins": [
+     {
+      "name": "InSight lander",
+      "year": 2018,
+      "entry": "InSight lander"
+     }
+    ]
+   },
+   {
+    "label": "Jezero crater",
+    "lat": 18.45,
+    "lon": 77.45,
+    "place": "Jezero crater",
+    "pins": [
+     {
+      "name": "Perseverance rover",
+      "year": 2021,
+      "entry": "Perseverance rover"
+     },
+     {
+      "name": "Ingenuity helicopter",
+      "year": 2021,
+      "entry": "Ingenuity helicopter"
+     },
+     {
+      "name": "Three Forks sample depot",
+      "year": 2022,
+      "entry": "Three Forks sample depot"
+     },
+     {
+      "name": "Landing leftovers",
+      "year": 2021,
+      "entry": "Landing leftovers"
+     }
+    ]
+   }
+  ],
+  "orbit": [
+   {
+    "name": "Mariner 9",
+    "year": 1971,
+    "entry": "Mariner 9"
+   },
+   {
+    "name": "Mars Global Surveyor",
+    "year": 1997,
+    "entry": "Mars Global Surveyor"
+   },
+   {
+    "name": "2001 Mars Odyssey",
+    "year": 2001,
+    "entry": "2001 Mars Odyssey"
+   },
+   {
+    "name": "Mars Reconnaissance Orbiter",
+    "year": 2006,
+    "entry": "Mars Reconnaissance Orbiter"
+   },
+   {
+    "name": "MAVEN",
+    "year": 2014,
+    "entry": "MAVEN"
+   }
+  ]
+ },
+ "space": [
+  {
+   "kind": "escape",
+   "au": 169,
+   "kms": 16.9,
+   "ra": 17.2,
+   "dec": 12,
+   "toward": "Ophiuchus",
+   "entry": "Voyager 1",
+   "lam": 255.7,
+   "beta": 34.8
+  },
+  {
+   "kind": "escape",
+   "au": 141.4,
+   "kms": 15.2,
+   "ra": 20.1,
+   "dec": -59.6,
+   "toward": "Pavo",
+   "entry": "Voyager 2",
+   "lam": 289.7,
+   "beta": -38.3
+  },
+  {
+   "kind": "escape",
+   "au": 139.9,
+   "kms": 11.8,
+   "ra": 5.2,
+   "dec": 26,
+   "toward": "Taurus (near Aldebaran)",
+   "entry": "Pioneer 10",
+   "lam": 79.2,
+   "beta": 3
+  },
+  {
+   "kind": "escape",
+   "au": 117.5,
+   "kms": 11.1,
+   "ra": 18.9,
+   "dec": -8.5,
+   "toward": "Aquila",
+   "entry": "Pioneer 11",
+   "lam": 283.8,
+   "beta": 14.3
+  },
+  {
+   "kind": "escape",
+   "au": 63.3,
+   "kms": 13.5,
+   "ra": 19.3,
+   "dec": -20.5,
+   "toward": "Sagittarius",
+   "entry": "New Horizons",
+   "lam": 288.2,
+   "beta": 1.7
+  },
+  {
+   "kind": "earth",
+   "where": "Orbiting Earth",
+   "entry": "Vanguard 1"
+  },
+  {
+   "kind": "planet",
+   "body": "Mercury",
+   "where": "Crater on Mercury",
+   "entry": "MESSENGER"
+  },
+  {
+   "kind": "orbit",
+   "r": 1.46,
+   "ang": 200,
+   "where": "Resting on asteroid 433 Eros (orbit 1.13–1.78 AU)",
+   "entry": "NEAR Shoemaker"
+  },
+  {
+   "kind": "orbit",
+   "r": 1.64,
+   "ang": 320,
+   "where": "Crashed into Dimorphos, moonlet of asteroid Didymos",
+   "entry": "DART"
+  },
+  {
+   "kind": "orbit",
+   "r": 2.77,
+   "ang": 120,
+   "where": "Circling dwarf planet Ceres",
+   "entry": "Dawn"
+  },
+  {
+   "kind": "orbit",
+   "r": 3.1,
+   "ang": 250,
+   "where": "Impactor inside comet Tempel 1; flyby craft lost in orbit around the Sun",
+   "entry": "Deep Impact"
+  },
+  {
+   "kind": "orbit",
+   "r": 3.4,
+   "ang": 30,
+   "where": "Orbit over the Sun's poles, 1.3–5.4 AU",
+   "entry": "Ulysses"
+  },
+  {
+   "kind": "orbit",
+   "r": 1.15,
+   "ang": 95,
+   "where": "Orbiting the Sun between Earth and Mars",
+   "entry": "Pioneer 4"
+  },
+  {
+   "kind": "orbit",
+   "r": 1,
+   "ang": 150,
+   "where": "Orbiting the Sun near Earth's path",
+   "entry": "Apollo 10 “Snoopy”"
+  },
+  {
+   "kind": "orbit",
+   "r": 1,
+   "ang": 175,
+   "where": "Orbiting the Sun near Earth's path",
+   "entry": "Apollo 12 S-IVB rocket stage"
+  },
+  {
+   "kind": "orbit",
+   "r": 1,
+   "ang": 220,
+   "where": "Trailing behind Earth around the Sun",
+   "entry": "Spitzer Space Telescope"
+  },
+  {
+   "kind": "orbit",
+   "r": 1,
+   "ang": 245,
+   "where": "Trailing behind Earth around the Sun",
+   "entry": "Kepler Space Telescope"
+  },
+  {
+   "kind": "orbit",
+   "r": 1.25,
+   "ang": 290,
+   "where": "Orbiting the Sun, past Mars",
+   "entry": "MarCO-A & MarCO-B"
+  },
+  {
+   "kind": "orbit",
+   "r": 1.32,
+   "ang": 20,
+   "where": "Orbiting the Sun",
+   "entry": "Deep Space 1"
+  },
+  {
+   "kind": "orbit",
+   "r": 1.6,
+   "ang": 60,
+   "where": "Orbiting the Sun",
+   "entry": "Stardust"
+  }
+ ],
+ "entries": {
+  "Ranger 7": {
+   "name": "Ranger 7",
+   "year": 1964,
+   "kind": "Impact probe",
+   "where": "Mare Cognitum, Moon",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 31 Jul 1964",
+   "info": "Took 4,316 close-up photos in its last 17 minutes before hitting the Moon. America's first lunar success.",
+   "story": "My whole job lasted 17 minutes: take pictures, fall, and show Earth the Moon up close for the first time.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Ranger 7's first picture of the Moon, July 1964",
+   "photoId": "PIA02975",
+   "photoUrl": "https://images.nasa.gov/details/PIA02975"
+  },
+  "Ranger 8 & Ranger 9": {
+   "name": "Ranger 8 & Ranger 9",
+   "year": 1965,
+   "kind": "Impact probes",
+   "where": "Sea of Tranquility · Alphonsus crater",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 1965",
+   "info": "Photographed future Apollo landing areas. Ranger 9's final pictures were shown live on US television.",
+   "story": "Millions of people watched on TV as I raced toward the Moon, sending pictures until the very last second.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Ranger 7 at JPL in 1963; Rangers 8 and 9 were built the same way",
+   "photoId": "PIA23520",
+   "photoUrl": "https://images.nasa.gov/details/PIA23520"
+  },
+  "Surveyor 1": {
+   "name": "Surveyor 1",
+   "year": 1966,
+   "kind": "Lander",
+   "where": "Ocean of Storms, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "First American soft landing on the Moon (2 Jun 1966). Sent back more than 11,000 photos and proved the ground could hold a spacecraft.",
+   "story": "Everyone feared the Moon was deep dust that would swallow a lander. I touched down and proved it was solid.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Surveyor 1's own shadow on the Moon, 1966",
+   "photoId": "PIA02976",
+   "photoUrl": "https://images.nasa.gov/details/PIA02976"
+  },
+  "Lunar Orbiters 1–5": {
+   "name": "Lunar Orbiters 1–5",
+   "year": 1966,
+   "kind": "Orbiters (5)",
+   "where": "Crash sites across the Moon",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 1966–68",
+   "info": "Mapped about 99% of the Moon to choose Apollo landing sites. Lunar Orbiter 1 took the first picture of Earth seen from near the Moon.",
+   "story": "Five of us mapped the whole Moon so astronauts could pick a safe place to land — then we crashed so we wouldn't get in their way.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Earth seen from near the Moon by Lunar Orbiter 1, 1966",
+   "photoId": "LRC-1966-B701_P-07825",
+   "photoUrl": "https://images.nasa.gov/details/LRC-1966-B701_P-07825"
+  },
+  "Surveyor 3": {
+   "name": "Surveyor 3",
+   "year": 1967,
+   "kind": "Lander",
+   "where": "Ocean of Storms, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface (visited 1969)",
+   "info": "Landed in April 1967. Apollo 12 astronauts walked to it in 1969 and brought its camera back to Earth. Claims that Earth germs survived inside were later doubted.",
+   "story": "I waited two and a half years alone — then two astronauts walked over, said hello and took my camera home.",
+   "tier": "must",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Surveyor 3 in its crater, photographed by Apollo 12, 1969",
+   "photoId": "as12-48-7121",
+   "photoUrl": "https://images.nasa.gov/details/as12-48-7121"
+  },
+  "Apollo 12 site — Intrepid": {
+   "name": "Apollo 12 site — Intrepid",
+   "year": 1969,
+   "kind": "Lander + ALSEP station",
+   "where": "Ocean of Storms, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "Landed within walking distance of Surveyor 3. Left the first full science station (ALSEP). The ascent stage was crashed later and the Moon ‘rang’ for about an hour.",
+   "story": "I landed so precisely that the astronauts could walk to an old robot lander parked nearby.",
+   "tier": "strong",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "Intrepid and Surveyor 3 together on the Moon, November 1969",
+   "photoId": "AS12-48-7133",
+   "photoUrl": "https://images.nasa.gov/details/AS12-48-7133"
+  },
+  "Surveyor 5, 6 & 7": {
+   "name": "Surveyor 5, 6 & 7",
+   "year": 1967,
+   "kind": "Landers (3)",
+   "where": "Sea of Tranquility · Sinus Medii · near Tycho",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "Tested Moon soil chemistry. Surveyor 6 fired its engines and hopped about 2.5 m — the first liftoff from the Moon.",
+   "story": "I fired my engines, lifted off and landed a few steps away — the first rocket hop ever made on the Moon.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Moon panorama near Tycho crater taken by Surveyor 7, 1968",
+   "photoId": "PIA02977",
+   "photoUrl": "https://images.nasa.gov/details/PIA02977"
+  },
+  "Apollo 11 site — Eagle": {
+   "name": "Apollo 11 site — Eagle",
+   "year": 1969,
+   "kind": "Lander + experiments",
+   "where": "Sea of Tranquility, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "Eagle's descent stage, the flag (blown over at liftoff), a seismometer, a laser mirror, bootprints and about 100 other items left on 21 Jul 1969.",
+   "story": "The astronauts flew home and I stayed behind with their bootprints, a flag and a mirror that scientists still hit with lasers.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Buzz Aldrin beside Eagle's landing leg, July 1969",
+   "photoId": "as11-40-5903",
+   "photoUrl": "https://images.nasa.gov/details/as11-40-5903"
+  },
+  "Apollo 13 S-IVB rocket stage": {
+   "name": "Apollo 13 S-IVB rocket stage",
+   "year": 1970,
+   "kind": "Rocket stage impact",
+   "where": "Near Fra Mauro, Moon",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 14 Apr 1970",
+   "info": "Apollo 13 never landed, but its third stage was aimed at the Moon. Apollo 12's seismometer felt the crash for over three hours.",
+   "story": "My crew never reached the Moon, but I did — I hit it on purpose so a seismometer could listen to the Moon's insides.",
+   "tier": "extra",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "LRO view of an S-IVB crash crater (Apollo 16's stage; Apollo 13's made one like it)",
+   "photoId": "GSFC_20171208_Archive_e000501",
+   "photoUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000501"
+  },
+  "Apollo 14 site — Antares": {
+   "name": "Apollo 14 site — Antares",
+   "year": 1971,
+   "kind": "Lander + hand cart + ALSEP",
+   "where": "Fra Mauro, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "Left the Antares descent stage, a two-wheeled cart (MET), a laser mirror, a science station, and Alan Shepard's two golf balls.",
+   "story": "Alan Shepard hit two golf balls here. One is still lying in a crater — the only golf ball on the Moon.",
+   "tier": "strong",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "Edgar Mitchell with the two-wheeled cart, February 1971",
+   "photoId": "as14-64-9140",
+   "photoUrl": "https://images.nasa.gov/details/as14-64-9140"
+  },
+  "Apollo 15 site — Falcon + Rover 1": {
+   "name": "Apollo 15 site — Falcon + Rover 1",
+   "year": 1971,
+   "kind": "Lander + first Moon buggy",
+   "where": "Hadley–Apennine, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "First Lunar Roving Vehicle, the largest laser mirror (300 prisms), a science station, and the small Fallen Astronaut memorial. No NASA 3D model of the rover itself.",
+   "story": "I'm the first car ever driven on another world. My battery is long dead, but I'm still parked where they left me.",
+   "tier": "must",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "Jim Irwin with the first Lunar Roving Vehicle, July 1971",
+   "photoId": "as15-86-11603",
+   "photoUrl": "https://images.nasa.gov/details/as15-86-11603"
+  },
+  "Apollo 16 site — Orion + Rover 2": {
+   "name": "Apollo 16 site — Orion + Rover 2",
+   "year": 1972,
+   "kind": "Lander + rover + telescope",
+   "where": "Descartes Highlands, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "Left the second rover, the first telescope used on the Moon (George Carruthers' ultraviolet camera), and Charlie Duke's family photo.",
+   "story": "An astronaut left a photo of his family in the dust. It's still here, faded by more than 50 years of sunlight.",
+   "tier": "strong",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "John Young jumps to salute the flag beside the lander and rover, April 1972",
+   "photoId": "as16-113-18339",
+   "photoUrl": "https://images.nasa.gov/details/as16-113-18339"
+  },
+  "Apollo 17 site — Challenger + Rover 3": {
+   "name": "Apollo 17 site — Challenger + Rover 3",
+   "year": 1972,
+   "kind": "Lander + rover + plaque",
+   "where": "Taurus–Littrow, Moon",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "The last Apollo landing. The rover's fender was fixed with duct tape and maps; a plaque on the lander marks the end of the first human visits.",
+   "story": "When my fender broke, the astronauts fixed it with duct tape and maps. Then the last humans left — and nobody has walked here since.",
+   "tier": "strong",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "Apollo 17's rover at Taurus–Littrow, December 1972",
+   "photoId": "as17-137-20979",
+   "photoUrl": "https://images.nasa.gov/details/as17-137-20979"
+  },
+  "Lunar Prospector": {
+   "name": "Lunar Prospector",
+   "year": 1998,
+   "kind": "Orbiter",
+   "where": "Crater near the south pole, Moon",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 31 Jul 1999",
+   "info": "Found signs of hydrogen at the poles, a clue to ice. It carried the ashes of geologist Eugene Shoemaker, the only person buried on the Moon.",
+   "story": "I carried a scientist who dreamed of the Moon all his life — now he rests there with me.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Lunar Prospector launches, January 1998",
+   "photoId": "KSC-98PC107",
+   "photoUrl": "https://images.nasa.gov/details/KSC-98PC107"
+  },
+  "LCROSS + Centaur stage": {
+   "name": "LCROSS + Centaur stage",
+   "year": 2009,
+   "kind": "Impactor",
+   "where": "Cabeus crater, south pole, Moon",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 9 Oct 2009",
+   "info": "The empty Centaur rocket hit a shadowed crater; LCROSS flew through the plume and found water before crashing too.",
+   "story": "We crashed into the darkest crater on the Moon, kicked up a cloud — and found water inside it.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "LCROSS arrives in Florida for launch preparation, 2009",
+   "photoId": "KSC-2009-1754",
+   "photoUrl": "https://images.nasa.gov/details/KSC-2009-1754"
+  },
+  "GRAIL — Ebb & Flow": {
+   "name": "GRAIL — Ebb & Flow",
+   "year": 2012,
+   "kind": "Twin orbiters",
+   "where": "Near the north pole, Moon",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 17 Dec 2012",
+   "info": "Two spacecraft chased each other to map the Moon's gravity. Their crash site is named after astronaut Sally Ride.",
+   "story": "Two of us flew in a line, measuring the Moon's pull — and ended our mission together on a mountain named for Sally Ride.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Technicians lower the twin GRAIL spacecraft, 2011",
+   "photoId": "KSC-2011-6510",
+   "photoUrl": "https://images.nasa.gov/details/KSC-2011-6510"
+  },
+  "LADEE": {
+   "name": "LADEE",
+   "year": 2014,
+   "kind": "Orbiter",
+   "where": "Far side of the Moon",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 18 Apr 2014",
+   "info": "Studied the Moon's very thin atmosphere and floating dust, flying lower and lower until impact.",
+   "story": "I sniffed the Moon's thin air and floating dust, flying lower and lower until I touched the far side.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "LADEE launches from Virginia, September 2013",
+   "photoId": "201309060010HQ",
+   "photoUrl": "https://images.nasa.gov/details/201309060010HQ"
+  },
+  "Odysseus (IM-1)": {
+   "name": "Odysseus (IM-1)",
+   "year": 2024,
+   "kind": "Commercial lander, NASA payloads",
+   "where": "Near Malapert A, south pole, Moon",
+   "status": "resting",
+   "statusText": "Tipped over, mission ended",
+   "info": "First US landing on the Moon since 1972 (22 Feb 2024), built by Intuitive Machines for NASA's CLPS program. It landed on its side but still sent data.",
+   "story": "I landed on my side, but I still sent data home — the first American lander on the Moon in 52 years.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "The Nova-C lander Odysseus before launch, 2024",
+   "photoId": "IM_00309",
+   "photoUrl": "https://images.nasa.gov/details/IM_00309"
+  },
+  "Blue Ghost Mission 1": {
+   "name": "Blue Ghost Mission 1",
+   "year": 2025,
+   "kind": "Commercial lander, NASA payloads",
+   "where": "Mare Crisium, Moon",
+   "status": "resting",
+   "statusText": "Mission complete, resting",
+   "info": "Firefly Aerospace's lander carried 10 NASA instruments (2 Mar 2025), worked for two weeks and photographed a lunar sunset.",
+   "story": "I watched the Earth cover the Sun from the Moon, then filmed a sunset before going to sleep.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Falcon 9 with Blue Ghost on the launch pad, January 2025",
+   "photoId": "KSC-20250114-PH-KLS01_0039",
+   "photoUrl": "https://images.nasa.gov/details/KSC-20250114-PH-KLS01_0039"
+  },
+  "Athena (IM-2)": {
+   "name": "Athena (IM-2)",
+   "year": 2025,
+   "kind": "Commercial lander, NASA payloads",
+   "where": "Mons Mouton, south pole, Moon",
+   "status": "resting",
+   "statusText": "Tipped over, mission ended",
+   "info": "Carried NASA's PRIME-1 ice drill to the south pole (6 Mar 2025) but fell over in a crater and stopped after about a day.",
+   "story": "I came to drill for ice at the south pole but fell into a crater — the Moon is still a hard place to land.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Falcon 9 lifts off with the Athena lander, February 2025",
+   "photoId": "KSC-20250226-PH-FMX01_0009",
+   "photoUrl": "https://images.nasa.gov/details/KSC-20250226-PH-FMX01_0009"
+  },
+  "Lunar Reconnaissance Orbiter": {
+   "name": "Lunar Reconnaissance Orbiter",
+   "year": 2009,
+   "kind": "Orbiter",
+   "where": "Orbit around the Moon",
+   "status": "active",
+   "statusText": "Still working",
+   "info": "Maps the Moon in detail and has photographed every Apollo site, rover tracks and flag shadows from orbit.",
+   "story": "I'm the Moon's photographer. From orbit I can still see the Apollo landers, rover tracks and even footpaths.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "LRO lowered into a space-simulation test chamber, 2008",
+   "photoId": "PIA12086",
+   "photoUrl": "https://images.nasa.gov/details/PIA12086"
+  },
+  "Viking 1 Lander": {
+   "name": "Viking 1 Lander",
+   "year": 1976,
+   "kind": "Lander",
+   "where": "Chryse Planitia, Mars",
+   "status": "resting",
+   "statusText": "Resting on the surface (worked until 1982)",
+   "info": "First successful long-term Mars lander (20 Jul 1976). Tested soil for life and worked for over six years.",
+   "story": "I took the first photo from the surface of Mars and tested its soil for signs of life.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "The first photo ever taken on Mars, with Viking 1's footpad, 1976",
+   "photoId": "PIA00381",
+   "photoUrl": "https://images.nasa.gov/details/PIA00381"
+  },
+  "Viking 2 Lander": {
+   "name": "Viking 2 Lander",
+   "year": 1976,
+   "kind": "Lander",
+   "where": "Utopia Planitia, Mars",
+   "status": "resting",
+   "statusText": "Resting on the surface (worked until 1980)",
+   "info": "Twin of Viking 1, landed on the far side of the planet. Photographed thin frost on the ground in winter.",
+   "story": "I saw frost on Mars — white ice on red rocks, far from home.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Winter frost around the Viking 2 lander",
+   "photoId": "PIA00573",
+   "photoUrl": "https://images.nasa.gov/details/PIA00573"
+  },
+  "Mars Pathfinder + Sojourner": {
+   "name": "Mars Pathfinder + Sojourner",
+   "year": 1997,
+   "kind": "Lander + first Mars rover",
+   "where": "Ares Vallis, Mars",
+   "status": "resting",
+   "statusText": "Resting on the surface",
+   "info": "Bounced down on airbags on 4 Jul 1997. Sojourner, the size of a microwave oven, was the first wheeled robot on another planet.",
+   "story": "I'm the first rover on Mars — as small as a microwave oven. I never went more than a few metres from my lander.",
+   "tier": "must",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "The Pathfinder landing site and the rock 'Yogi', 1997",
+   "photoId": "PIA00629",
+   "photoUrl": "https://images.nasa.gov/details/PIA00629"
+  },
+  "Mars Polar Lander + Deep Space 2": {
+   "name": "Mars Polar Lander + Deep Space 2",
+   "year": 1999,
+   "kind": "Lander + 2 probes",
+   "where": "Near the south pole, Mars",
+   "status": "lost",
+   "statusText": "Lost during landing, 3 Dec 1999",
+   "info": "Contact was lost during landing. Engineers think the engines shut off too early. The wreck has never been clearly found.",
+   "story": "Nobody knows exactly where I am. My story taught engineers to test every tiny part twice.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Mars Polar Lander during launch preparation, 1998",
+   "photoId": "KSC-98pc1229",
+   "photoUrl": "https://images.nasa.gov/details/KSC-98pc1229"
+  },
+  "Spirit rover": {
+   "name": "Spirit rover",
+   "year": 2004,
+   "kind": "Rover",
+   "where": "Gusev crater, Mars",
+   "status": "silent",
+   "statusText": "Stuck in sand, silent since 2010",
+   "info": "Planned to work 90 days, lasted six years. Its stuck wheel scraped up bright soil that showed signs of ancient hot springs.",
+   "story": "I got stuck in sand — and my broken wheel dug up a clue that Mars once had hot springs.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Spirit's own camera looks across its deck after landing, January 2004",
+   "photoId": "PIA05040",
+   "photoUrl": "https://images.nasa.gov/details/PIA05040"
+  },
+  "Opportunity rover": {
+   "name": "Opportunity rover",
+   "year": 2004,
+   "kind": "Rover",
+   "where": "Perseverance Valley, Mars",
+   "status": "silent",
+   "statusText": "Silent since a dust storm in 2018",
+   "info": "Built for 90 days, worked for almost 15 years and drove 45 km, farther than a marathon. Found rocks formed in water.",
+   "story": "I was built for 90 days and kept going for almost 15 years — I drove more than a marathon on Mars.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Opportunity's arm at work on a Martian rock",
+   "photoId": "PIA20285",
+   "photoUrl": "https://images.nasa.gov/details/PIA20285"
+  },
+  "Phoenix lander": {
+   "name": "Phoenix lander",
+   "year": 2008,
+   "kind": "Lander",
+   "where": "Vastitas Borealis, near the north pole, Mars",
+   "status": "resting",
+   "statusText": "Frozen, silent since 2008",
+   "info": "Dug into the ground and touched water ice. Winter ice later crushed a solar panel. It carries a DVD library called Visions of Mars.",
+   "story": "I scraped the dirt and found real ice. I also carry a little DVD library for future Mars explorers to read.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Phoenix sitting on Mars, photographed from orbit by MRO, 2008",
+   "photoId": "PIA10701",
+   "photoUrl": "https://images.nasa.gov/details/PIA10701"
+  },
+  "Curiosity rover": {
+   "name": "Curiosity rover",
+   "year": 2012,
+   "kind": "Rover",
+   "where": "Gale crater, Mars",
+   "status": "active",
+   "statusText": "Still working",
+   "info": "A car-sized rover climbing Mount Sharp. Showed that Gale crater once held a lake that could have supported microbes.",
+   "story": "I'm climbing a mountain in an old lake bed, reading Mars's history layer by layer like pages in a book.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Curiosity's selfie at the 'Buckskin' drill site, 2015",
+   "photoId": "PIA19808",
+   "photoUrl": "https://images.nasa.gov/details/PIA19808"
+  },
+  "InSight lander": {
+   "name": "InSight lander",
+   "year": 2018,
+   "kind": "Lander",
+   "where": "Elysium Planitia, Mars",
+   "status": "resting",
+   "statusText": "Retired Dec 2022 (dusty panels)",
+   "info": "Listened to the inside of Mars and recorded more than 1,300 marsquakes before dust covered its solar panels.",
+   "story": "I put my ear to the ground and heard Mars rumble more than a thousand times.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "InSight's final selfie, covered in dust, 2022",
+   "photoId": "PIA25287",
+   "photoUrl": "https://images.nasa.gov/details/PIA25287"
+  },
+  "Perseverance rover": {
+   "name": "Perseverance rover",
+   "year": 2021,
+   "kind": "Rover",
+   "where": "Jezero crater, Mars",
+   "status": "active",
+   "statusText": "Still working",
+   "info": "Searching an old river delta for signs of past life and collecting rock samples for a future trip to Earth.",
+   "story": "I'm collecting pieces of Mars in little tubes so that one day scientists on Earth can study them.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Perseverance's selfie with Ingenuity, April 2021",
+   "photoId": "PIA24542",
+   "photoUrl": "https://images.nasa.gov/details/PIA24542"
+  },
+  "Ingenuity helicopter": {
+   "name": "Ingenuity helicopter",
+   "year": 2021,
+   "kind": "Helicopter",
+   "where": "Valinor Hills, Jezero crater, Mars",
+   "status": "resting",
+   "statusText": "Grounded Jan 2024 after 72 flights",
+   "info": "First powered flight on another planet (19 Apr 2021). Planned for 5 flights, made 72. Carries a scrap of fabric from the Wright brothers' plane.",
+   "story": "They hoped I'd fly 5 times. I flew 72 — carrying a tiny piece of the Wright brothers' first airplane.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Ingenuity on Mars two years after its first flight, 2023",
+   "photoId": "PIA25881",
+   "photoUrl": "https://images.nasa.gov/details/PIA25881"
+  },
+  "Three Forks sample depot": {
+   "name": "Three Forks sample depot",
+   "year": 2022,
+   "kind": "10 sample tubes",
+   "where": "Jezero crater, Mars",
+   "status": "resting",
+   "statusText": "Waiting on the ground",
+   "info": "Perseverance laid 10 sealed tubes on the ground (2022–23) as a backup. The first sample depot on another planet.",
+   "story": "We are ten little tubes of Mars rock, left on the ground on purpose and waiting for a ride to Earth.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "The last tube set down at the Three Forks depot, January 2023",
+   "photoId": "PIA25340",
+   "photoUrl": "https://images.nasa.gov/details/PIA25340"
+  },
+  "Landing leftovers": {
+   "name": "Landing leftovers",
+   "year": 2021,
+   "kind": "Heat shields, parachutes, sky cranes",
+   "where": "Gale & Jezero craters and other sites, Mars",
+   "status": "resting",
+   "statusText": "Scattered on the surface",
+   "info": "Every landing leaves parts behind: heat shields, backshells, parachutes and the sky cranes that lowered Curiosity (2012) and Perseverance (2021). Ingenuity photographed Perseverance's parachute in 2022.",
+   "story": "We protected the rovers through a fiery fall, then dropped away. Now we lie in the dust like a trail of breadcrumbs.",
+   "tier": "extra",
+   "model": "NASA 3D print of the landing site",
+   "modelKey": "site",
+   "photoCap": "Perseverance's backshell and parachute, photographed by Ingenuity, 2022",
+   "photoId": "PIA25219",
+   "photoUrl": "https://images.nasa.gov/details/PIA25219"
+  },
+  "Mariner 9": {
+   "name": "Mariner 9",
+   "year": 1971,
+   "kind": "Orbiter",
+   "where": "Orbit around Mars (may have fallen)",
+   "status": "silent",
+   "statusText": "Silent since 1972",
+   "info": "First spacecraft to orbit another planet. Waited out a global dust storm, then mapped giant volcanoes and dry riverbeds. NASA expected its orbit to last until at least 2022.",
+   "story": "I arrived during a planet-wide dust storm, waited, and then saw the biggest volcano in the solar system appear.",
+   "tier": "strong",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Olympus Mons poking above the dust storm, seen by Mariner 9, 1971",
+   "photoId": "PIA02995",
+   "photoUrl": "https://images.nasa.gov/details/PIA02995"
+  },
+  "Mars Global Surveyor": {
+   "name": "Mars Global Surveyor",
+   "year": 1997,
+   "kind": "Orbiter",
+   "where": "Orbit around Mars",
+   "status": "silent",
+   "statusText": "Lost contact Nov 2006, still orbiting",
+   "info": "Mapped Mars for nine years and spotted gullies that look like they were carved by flowing water.",
+   "story": "For nine years I mapped every hill and valley of Mars, and found gullies that look like water made them.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Mars Global Surveyor prepared for launch, 1996",
+   "photoId": "KSC-96pc1002",
+   "photoUrl": "https://images.nasa.gov/details/KSC-96pc1002"
+  },
+  "2001 Mars Odyssey": {
+   "name": "2001 Mars Odyssey",
+   "year": 2001,
+   "kind": "Orbiter",
+   "where": "Orbit around Mars",
+   "status": "active",
+   "statusText": "Still working, nearly out of fuel",
+   "info": "The longest-working spacecraft at Mars. Found ice under the surface and relays messages from rovers.",
+   "story": "I've been at Mars longer than any other spacecraft, passing messages from rovers back to Earth.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Odyssey launches toward Mars, April 2001",
+   "photoId": "PIA20331",
+   "photoUrl": "https://images.nasa.gov/details/PIA20331"
+  },
+  "Mars Reconnaissance Orbiter": {
+   "name": "Mars Reconnaissance Orbiter",
+   "year": 2006,
+   "kind": "Orbiter",
+   "where": "Orbit around Mars",
+   "status": "active",
+   "statusText": "Still working",
+   "info": "Its HiRISE camera can see objects the size of a kitchen table. It has photographed old landers, parachutes and crash sites.",
+   "story": "My camera is so sharp I can spot old landers and their parachutes lying on the ground.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "MRO in the clean room before launch, 2005",
+   "photoId": "PIA07212",
+   "photoUrl": "https://images.nasa.gov/details/PIA07212"
+  },
+  "MAVEN": {
+   "name": "MAVEN",
+   "year": 2014,
+   "kind": "Orbiter",
+   "where": "Orbit around Mars",
+   "status": "lost",
+   "statusText": "Contact lost Dec 2025; mission ended Jun 2026",
+   "info": "Studied how the Sun stripped away most of Mars's air. NASA lost contact on 6 Dec 2025 and ended the mission in June 2026.",
+   "story": "I found out where Mars's air went — the Sun blew it away into space.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "MAVEN in the processing facility, 2013",
+   "photoId": "KSC-2013-3660",
+   "photoUrl": "https://images.nasa.gov/details/KSC-2013-3660"
+  },
+  "Voyager 1": {
+   "name": "Voyager 1",
+   "year": 1977,
+   "kind": "Probe",
+   "where": "Interstellar space",
+   "status": "active",
+   "statusText": "Still working, 2 instruments on",
+   "info": "The farthest human-made object. Took the ‘Pale Blue Dot’ photo of Earth. Expected to be one light-day from Earth around November 2026.",
+   "story": "Soon my messages will take a whole day to reach Earth. I'm the farthest thing humans have ever made.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Voyager 1's launch vehicle, 1977",
+   "photoId": "PIA21740",
+   "photoUrl": "https://images.nasa.gov/details/PIA21740"
+  },
+  "Voyager 2": {
+   "name": "Voyager 2",
+   "year": 1977,
+   "kind": "Probe",
+   "where": "Interstellar space",
+   "status": "active",
+   "statusText": "Still working (low power)",
+   "info": "The only spacecraft to visit Uranus and Neptune. Entered interstellar space in 2018, about 21 billion km away. Carries a Golden Record.",
+   "story": "I'm the only visitor Uranus and Neptune have ever had, and I carry a golden record of Earth's music.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Preparing a Voyager Golden Record, 1977",
+   "photoId": "PIA21741",
+   "photoUrl": "https://images.nasa.gov/details/PIA21741"
+  },
+  "Pioneer 10": {
+   "name": "Pioneer 10",
+   "year": 1972,
+   "kind": "Probe",
+   "where": "Leaving the solar system",
+   "status": "silent",
+   "statusText": "Last signal Jan 2003",
+   "info": "First to cross the asteroid belt and fly past Jupiter (1973). Carries a metal plaque about who sent it. (The plaque artwork shows unclothed people — our app uses its own drawing instead.)",
+   "story": "I was the first to fly past Jupiter. Now I'm heading toward a red star and will need about 2 million years to get there.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Pioneer 10 being prepared for launch, 1972",
+   "photoId": "ARC-1972-AC72-2135",
+   "photoUrl": "https://images.nasa.gov/details/ARC-1972-AC72-2135"
+  },
+  "Pioneer 11": {
+   "name": "Pioneer 11",
+   "year": 1973,
+   "kind": "Probe",
+   "where": "Leaving the solar system",
+   "status": "silent",
+   "statusText": "Last contact Sep 1995",
+   "info": "Twin of Pioneer 10. First spacecraft to visit Saturn (1979). Uses the Pioneer 10 model.",
+   "story": "I was the first visitor to Saturn's rings — now I drift toward the stars with a message from Earth.",
+   "tier": "strong",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "Pioneer 10 in 1972; Pioneer 11 was its identical twin",
+   "photoId": "ARC-1972-AC72-2135",
+   "photoUrl": "https://images.nasa.gov/details/ARC-1972-AC72-2135"
+  },
+  "New Horizons": {
+   "name": "New Horizons",
+   "year": 2006,
+   "kind": "Probe",
+   "where": "Kuiper Belt, leaving the solar system",
+   "status": "active",
+   "statusText": "Still working",
+   "info": "First visit to Pluto (2015) and the farthest object ever explored, Arrokoth (2019). Carries some ashes of Pluto's discoverer, Clyde Tombaugh.",
+   "story": "I showed the world Pluto's heart-shaped glacier, and I carry the man who discovered Pluto.",
+   "tier": "must",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "New Horizons being prepared for launch, 2005",
+   "photoId": "05pd2240",
+   "photoUrl": "https://images.nasa.gov/details/05pd2240"
+  },
+  "Vanguard 1": {
+   "name": "Vanguard 1",
+   "year": 1958,
+   "kind": "Satellite",
+   "where": "Orbit around Earth",
+   "status": "silent",
+   "statusText": "Silent since 1964, still orbiting",
+   "info": "Tiny solar-powered satellite (1.5 kg), built by the US Navy; the Vanguard team later moved to NASA. The oldest human-made object still in orbit.",
+   "story": "I'm the size of a grapefruit and I've circled Earth since 1958 — the oldest human-made thing still up there.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Waiting for the Vanguard 1 launch, March 1958",
+   "photoId": "58PD-06149A",
+   "photoUrl": "https://images.nasa.gov/details/58PD-06149A"
+  },
+  "MESSENGER": {
+   "name": "MESSENGER",
+   "year": 2004,
+   "kind": "Mercury orbiter",
+   "where": "Crater on Mercury",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 30 Apr 2015",
+   "info": "First spacecraft to orbit Mercury. Found water ice hiding in shadowed craters on the planet closest to the Sun.",
+   "story": "I found ice on Mercury, the planet closest to the Sun — hiding in craters where sunlight never reaches.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "MESSENGER in the clean room, 2004",
+   "photoId": "KSC-04pd0431",
+   "photoUrl": "https://images.nasa.gov/details/KSC-04pd0431"
+  },
+  "NEAR Shoemaker": {
+   "name": "NEAR Shoemaker",
+   "year": 1996,
+   "kind": "Asteroid orbiter / lander",
+   "where": "On asteroid 433 Eros",
+   "status": "resting",
+   "statusText": "Landed 12 Feb 2001, silent",
+   "info": "First spacecraft to orbit an asteroid and the first to land on one, even though it was never built to land.",
+   "story": "I wasn't built to land, but I touched down gently on an asteroid anyway — and I'm still sitting on it.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "NEAR Shoemaker during tests before launch, 1996",
+   "photoId": "9701593",
+   "photoUrl": "https://images.nasa.gov/details/9701593"
+  },
+  "DART": {
+   "name": "DART",
+   "year": 2021,
+   "kind": "Asteroid impactor",
+   "where": "Asteroid Dimorphos",
+   "status": "crashed",
+   "statusText": "Crashed on purpose, 26 Sep 2022",
+   "info": "Hit a small moon of an asteroid and shortened its orbit by 32 minutes — the first test of protecting Earth by pushing an asteroid.",
+   "story": "I crashed into an asteroid on purpose to prove humans can push one away if it ever heads for Earth.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "DART launches on a Falcon 9, November 2021",
+   "photoId": "NHQ202111230027",
+   "photoUrl": "https://images.nasa.gov/details/NHQ202111230027"
+  },
+  "Dawn": {
+   "name": "Dawn",
+   "year": 2007,
+   "kind": "Asteroid orbiter",
+   "where": "Orbit around dwarf planet Ceres",
+   "status": "silent",
+   "statusText": "Out of fuel since Nov 2018",
+   "info": "The only spacecraft to orbit two different worlds (Vesta and Ceres). Found bright salt deposits on Ceres. It will keep circling for decades.",
+   "story": "I visited two worlds in the asteroid belt and now I circle Ceres quietly, so I never touch it.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Dawn with its solar wings folded before launch, 2007",
+   "photoId": "PIA12018",
+   "photoUrl": "https://images.nasa.gov/details/PIA12018"
+  },
+  "Deep Impact": {
+   "name": "Deep Impact",
+   "year": 2005,
+   "kind": "Comet impactor + flyby",
+   "where": "Comet Tempel 1 · orbit around the Sun",
+   "status": "silent",
+   "statusText": "Lost contact Aug 2013",
+   "info": "Fired an impactor into comet Tempel 1 on 4 July 2005 to see what was inside. The impactor's remains are part of the comet now.",
+   "story": "I threw a copper ball at a comet to see what was inside — like cracking open a cosmic egg.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "The flash of Deep Impact's impactor hitting comet Tempel 1, July 2005",
+   "photoId": "PIA02137",
+   "photoUrl": "https://images.nasa.gov/details/PIA02137"
+  },
+  "Ulysses": {
+   "name": "Ulysses",
+   "year": 1990,
+   "kind": "Probe (NASA + ESA)",
+   "where": "Orbit around the Sun",
+   "status": "silent",
+   "statusText": "Retired June 2009",
+   "info": "First spacecraft to fly over the Sun's north and south poles. Used Jupiter's gravity to swing out of the planets' plane.",
+   "story": "Every other spacecraft looks at the Sun's middle. I flew over its top and its bottom.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Ulysses at Kennedy Space Center, 1990",
+   "photoId": "90PC-1357",
+   "photoUrl": "https://images.nasa.gov/details/90PC-1357"
+  },
+  "Pioneer 4": {
+   "name": "Pioneer 4",
+   "year": 1959,
+   "kind": "Probe",
+   "where": "Orbit around the Sun",
+   "status": "silent",
+   "statusText": "Silent, circling the Sun",
+   "info": "First American spacecraft to escape Earth's gravity. Flew past the Moon at about 60,000 km.",
+   "story": "I was the first American machine to break free of Earth — now I go round the Sun like a tiny planet.",
+   "tier": "extra",
+   "model": "No NASA 3D model",
+   "modelKey": "none",
+   "photoCap": "Engineers preparing Pioneer 4, 1959",
+   "photoId": "PIA23497",
+   "photoUrl": "https://images.nasa.gov/details/PIA23497"
+  },
+  "Apollo 10 “Snoopy”": {
+   "name": "Apollo 10 “Snoopy”",
+   "year": 1969,
+   "kind": "Lunar Module ascent stage",
+   "where": "Orbit around the Sun",
+   "status": "silent",
+   "statusText": "Lost in space; maybe found in 2019",
+   "info": "The dress-rehearsal lander flew within 15 km of the Moon, then was sent into orbit around the Sun. Astronomers think asteroid 2018 AP4 may be Snoopy.",
+   "story": "I practised the Moon landing without touching down, then drifted off around the Sun. Astronomers think they may have spotted me again.",
+   "tier": "strong",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "Snoopy's ascent stage photographed from Apollo 10, May 1969",
+   "photoId": "as10-34-5112",
+   "photoUrl": "https://images.nasa.gov/details/as10-34-5112"
+  },
+  "Apollo 12 S-IVB rocket stage": {
+   "name": "Apollo 12 S-IVB rocket stage",
+   "year": 1969,
+   "kind": "Rocket stage",
+   "where": "Orbit around the Sun",
+   "status": "silent",
+   "statusText": "Silent, circling the Sun",
+   "info": "In 2002 an amateur astronomer found a ‘new asteroid’ (J002E3). It turned out to be Apollo 12's third stage, painted white.",
+   "story": "In 2002 someone discovered a new asteroid near Earth. Surprise — it was me, a leftover Apollo rocket stage.",
+   "tier": "extra",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "A Saturn V third stage drifting away (Apollo 8's, same type as Apollo 12's)",
+   "photoId": "as08-16-2584",
+   "photoUrl": "https://images.nasa.gov/details/as08-16-2584"
+  },
+  "Spitzer Space Telescope": {
+   "name": "Spitzer Space Telescope",
+   "year": 2003,
+   "kind": "Infrared telescope",
+   "where": "Following Earth around the Sun",
+   "status": "silent",
+   "statusText": "Retired Jan 2020",
+   "info": "Saw the universe in heat (infrared) and helped find seven Earth-sized planets around the star TRAPPIST-1.",
+   "story": "I saw the universe in heat instead of light — and helped find seven Earth-sized planets around one star.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Spitzer ready for launch, 2003",
+   "photoId": "PIA23644",
+   "photoUrl": "https://images.nasa.gov/details/PIA23644"
+  },
+  "Kepler Space Telescope": {
+   "name": "Kepler Space Telescope",
+   "year": 2009,
+   "kind": "Planet-hunting telescope",
+   "where": "Following Earth around the Sun",
+   "status": "silent",
+   "statusText": "Retired Oct 2018",
+   "info": "Watched stars for tiny dips in brightness and found more than 2,600 planets, showing that planets are common.",
+   "story": "I stared at stars and waited for them to blink — and found thousands of new worlds.",
+   "tier": "strong",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Kepler in the clean room, 2008",
+   "photoId": "PIA11188",
+   "photoUrl": "https://images.nasa.gov/details/PIA11188"
+  },
+  "MarCO-A & MarCO-B": {
+   "name": "MarCO-A & MarCO-B",
+   "year": 2018,
+   "kind": "CubeSats (‘WALL-E’ and ‘EVE’)",
+   "where": "Orbit around the Sun",
+   "status": "silent",
+   "statusText": "Silent since early 2019",
+   "info": "Briefcase-sized satellites that followed InSight to Mars and relayed its landing news live. First CubeSats in deep space. Generic CubeSat model only.",
+   "story": "We're as small as a briefcase, but we flew to Mars and told Earth that InSight had landed safely.",
+   "tier": "extra",
+   "model": "NASA 3D model of a twin / related craft",
+   "modelKey": "related",
+   "photoCap": "An engineer with both MarCO CubeSats, 2018",
+   "photoId": "PIA22319",
+   "photoUrl": "https://images.nasa.gov/details/PIA22319"
+  },
+  "Deep Space 1": {
+   "name": "Deep Space 1",
+   "year": 1998,
+   "kind": "Test probe",
+   "where": "Orbit around the Sun",
+   "status": "silent",
+   "statusText": "Retired Dec 2001",
+   "info": "Tested an ion engine with a gentle blue glow, plus self-driving navigation. Flew past a comet.",
+   "story": "My engine pushes as softly as a sheet of paper on your hand — but it never stops pushing.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Deep Space 1 during launch preparation, 1998",
+   "photoId": "KSC-98pc1264",
+   "photoUrl": "https://images.nasa.gov/details/KSC-98pc1264"
+  },
+  "Stardust": {
+   "name": "Stardust",
+   "year": 1999,
+   "kind": "Comet sample probe",
+   "where": "Orbit around the Sun",
+   "status": "silent",
+   "statusText": "Retired Mar 2011",
+   "info": "Caught comet dust in a super-light foam called aerogel and sent it to Earth in a capsule (2006). The spacecraft stayed in space.",
+   "story": "I caught comet dust in a foam lighter than air and sent it home in a capsule — then I stayed behind.",
+   "tier": "extra",
+   "model": "NASA 3D model of this craft",
+   "modelKey": "exact",
+   "photoCap": "Stardust's comet-dust capsule after landing in Utah, 2006",
+   "photoId": "PIA03669",
+   "photoUrl": "https://images.nasa.gov/details/PIA03669"
+  }
+ }
+}

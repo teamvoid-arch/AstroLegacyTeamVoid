@@ -1,0 +1,1123 @@
+{
+  "_note": "One entry per fact. verified=true only when the fact is on a NASA page marked as checked in docs/05 or docs/06 (checked 12 Nov 2026) or in the Story Script fact table ('Checked'). verified=false facts never show in the app (their lines are hidden). 'kind' = nasa | our-calculation | our-comparison.",
+  "facts": [
+    {
+      "id": "space-air",
+      "machineId": null,
+      "verified": false,
+      "text": {
+        "en": "Space has almost no air, and sound needs air to travel."
+      },
+      "sourceTitle": "TODO(fact): NASA page needed",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "escape-velocity",
+      "machineId": null,
+      "verified": false,
+      "text": {
+        "en": "Earth's escape velocity is about 11.2 km per second (about 40,000 km/h); a passenger jet flies about 900 km/h."
+      },
+      "sourceTitle": "TODO(fact): NASA Moon/Earth facts page (Story Script: 'To check')",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "moon-distance",
+      "machineId": null,
+      "verified": false,
+      "text": {
+        "en": "The Moon's average distance is 384,400 km; Apollo took about 3 days to reach it."
+      },
+      "sourceTitle": "TODO(fact): NASA Moon facts (Story Script: 'To check')",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "moon-gravity",
+      "machineId": null,
+      "verified": false,
+      "text": {
+        "en": "On the Moon you weigh about one sixth of your weight on Earth."
+      },
+      "sourceTitle": "TODO(fact): NASA page needed",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "space-no-updown",
+      "machineId": null,
+      "verified": false,
+      "text": {
+        "en": "In space (free fall) there is no up or down."
+      },
+      "sourceTitle": "TODO(fact): NASA page needed",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "ranger7-purpose",
+      "machineId": "ranger7",
+      "verified": true,
+      "text": {
+        "en": "Ranger 7 was built to fly straight down to the Moon and send pictures until impact; the six Rangers before it sent no close-ups."
+      },
+      "sourceTitle": "NSSDCA: Ranger; NASA History: 60 Years Ago, Ranger 7 Photographs the Moon",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/ranger.html",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ranger7-images",
+      "machineId": "ranger7",
+      "verified": true,
+      "text": {
+        "en": "In its last 17 minutes, Ranger 7 sent 4,308 pictures."
+      },
+      "sourceTitle": "NASA History: 60 Years Ago, Ranger 7 Photographs the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/60-years-ago-ranger-7-photographs-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ranger7-sharper",
+      "machineId": "ranger7",
+      "verified": true,
+      "text": {
+        "en": "Its pictures were up to 1,000 times sharper than views from telescopes on Earth."
+      },
+      "sourceTitle": "NSSDCA: Ranger",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/ranger.html",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ranger7-impact",
+      "machineId": "ranger7",
+      "verified": true,
+      "text": {
+        "en": "Ranger 7 hit the Moon on 31 July 1964."
+      },
+      "sourceTitle": "NSSDCA: Ranger",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/ranger.html",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ranger7-mare-cognitum",
+      "machineId": "ranger7",
+      "verified": true,
+      "text": {
+        "en": "The area was named Mare Cognitum, 'the Sea that has become known'."
+      },
+      "sourceTitle": "NASA History: 60 Years Ago, Ranger 7 Photographs the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/60-years-ago-ranger-7-photographs-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "moon-dust-worry",
+      "machineId": "surveyor1",
+      "verified": false,
+      "text": {
+        "en": "Some scientists worried the Moon was covered in deep dust that a spacecraft could sink into."
+      },
+      "sourceTitle": "TODO(fact): not on the Surveyor 1 page checked in docs/05",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "surveyor1-landing",
+      "machineId": "surveyor1",
+      "verified": true,
+      "text": {
+        "en": "Surveyor 1 landed on 2 June 1966 in the Ocean of Storms: the first American spacecraft to soft-land on the Moon."
+      },
+      "sourceTitle": "NASA: 55 Years Ago, Surveyor 1 Makes a Soft Landing on the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/55-years-ago-surveyor-1-makes-a-soft-landing-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "surveyor1-images",
+      "machineId": "surveyor1",
+      "verified": true,
+      "text": {
+        "en": "Surveyor 1 sent home 11,240 pictures."
+      },
+      "sourceTitle": "NASA: 55 Years Ago, Surveyor 1 Makes a Soft Landing on the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/55-years-ago-surveyor-1-makes-a-soft-landing-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "surveyor1-proved",
+      "machineId": "surveyor1",
+      "verified": true,
+      "text": {
+        "en": "It showed that a spacecraft can land safely on the Moon and do real science."
+      },
+      "sourceTitle": "NASA: 55 Years Ago, Surveyor 1 Makes a Soft Landing on the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/55-years-ago-surveyor-1-makes-a-soft-landing-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "surveyor1-contact",
+      "machineId": "surveyor1",
+      "verified": true,
+      "text": {
+        "en": "NASA heard from Surveyor 1 until 7 January 1967."
+      },
+      "sourceTitle": "NASA: 55 Years Ago, Surveyor 1 Makes a Soft Landing on the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/55-years-ago-surveyor-1-makes-a-soft-landing-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "luna9-first",
+      "machineId": "surveyor1",
+      "verified": false,
+      "text": {
+        "en": "The Soviet Luna 9 made the first soft landing on the Moon, in February 1966."
+      },
+      "sourceTitle": "TODO(fact): NASA page needed",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "surveyor3-landed",
+      "machineId": "surveyor3",
+      "verified": true,
+      "text": {
+        "en": "Surveyor 3 launched on 17 April 1967 and used its scoop to test the soil for the lunar module."
+      },
+      "sourceTitle": "NASA: Astronauts Pay a Visit to Surveyor 3",
+      "sourceUrl": "https://www.nasa.gov/image-article/astronauts-pay-visit-surveyor-3/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "surveyor3-visit",
+      "machineId": "surveyor3",
+      "verified": true,
+      "text": {
+        "en": "In November 1969 Apollo 12 landed 538 feet (less than 200 m, our conversion) from Surveyor 3; Conrad and Bean walked over and brought its camera, scoop and other parts home after 31 months on the Moon."
+      },
+      "sourceTitle": "NASA: 55 Years Ago, Apollo 12 Makes a Pinpoint Landing; NASA: Astronauts Pay a Visit to Surveyor 3",
+      "sourceUrl": "https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo12-precise",
+      "machineId": "apollo12-intrepid",
+      "verified": true,
+      "text": {
+        "en": "Apollo 12's lunar module Intrepid made a pinpoint landing near Surveyor 3."
+      },
+      "sourceTitle": "NASA: 55 Years Ago, Apollo 12 Makes a Pinpoint Landing on the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo12-ring",
+      "machineId": "apollo12-intrepid",
+      "verified": true,
+      "text": {
+        "en": "Apollo 12 left a science station with a seismometer; when the empty ascent stage was crashed into the Moon on command, it recorded signals for nearly an hour."
+      },
+      "sourceTitle": "NASA: 55 Years Ago, Apollo 12 Makes a Pinpoint Landing on the Moon",
+      "sourceUrl": "https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo11-landing",
+      "machineId": "apollo11-eagle",
+      "verified": true,
+      "text": {
+        "en": "The lunar module Eagle landed on 20 July 1969 in the Sea of Tranquility; Neil Armstrong and Buzz Aldrin were the first people to walk on another world."
+      },
+      "sourceTitle": "NASA: Apollo 11 Mission Overview",
+      "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo11-descent-stage",
+      "machineId": "apollo11-eagle",
+      "verified": true,
+      "text": {
+        "en": "Eagle's descent stage served as the launch platform for the ascent stage and was left on the Moon; only the ascent stage rejoined Columbia."
+      },
+      "sourceTitle": "NSSDCA: Apollo 11 Lunar Module / EASEP",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo11-plaque",
+      "machineId": "apollo11-eagle",
+      "verified": true,
+      "text": {
+        "en": "A plaque on the descent stage says 'We came in peace for all mankind'."
+      },
+      "sourceTitle": "NSSDCA: Apollo 11 Lunar Module / EASEP",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo11-footprints",
+      "machineId": "apollo11-eagle",
+      "verified": false,
+      "text": {
+        "en": "There is no wind on the Moon, so footprints can last a very long time."
+      },
+      "sourceTitle": "TODO(fact): NASA page needed",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "lrr-still-used",
+      "machineId": "laser-mirror",
+      "verified": true,
+      "text": {
+        "en": "The Apollo 11 laser mirror (100 quartz prisms, no power needed) still returns laser light; timing it gives the Moon's distance to within a few millimetres."
+      },
+      "sourceTitle": "NASA: The Apollo Experiment That Keeps on Giving",
+      "sourceUrl": "https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "lrr-recede",
+      "machineId": "laser-mirror",
+      "verified": true,
+      "text": {
+        "en": "Laser ranging shows the Moon moves away from Earth about 3.8 cm a year."
+      },
+      "sourceTitle": "NASA: The Apollo Experiment That Keeps on Giving",
+      "sourceUrl": "https://www.nasa.gov/missions/apollo/apollo-11/the-apollo-experiment-that-keeps-on-giving/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "lrr-roundtrip",
+      "machineId": "laser-mirror",
+      "verified": false,
+      "kind": "our-calculation",
+      "text": {
+        "en": "Light's round trip to the Moon takes about 2.5 seconds (our calculation from the Moon's distance)."
+      },
+      "sourceTitle": "TODO(fact): depends on moon-distance",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "lrv-apollo15",
+      "machineId": "apollo15-rover",
+      "verified": true,
+      "text": {
+        "en": "The Lunar Roving Vehicle folded flat inside the lunar module, ran on two 36-volt batteries, had woven steel-wire wheels and drove 27.8 km on Apollo 15 (1971); three rovers were used."
+      },
+      "sourceTitle": "NSSDCA: The Apollo Lunar Roving Vehicle",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "lrv-still-there",
+      "machineId": "apollo15-rover",
+      "verified": true,
+      "text": {
+        "en": "The rovers of the last three Apollo missions can be seen in LRO images."
+      },
+      "sourceTitle": "NASA: 15 Years Ago, LRO Begins Moon Mapping Mission",
+      "sourceUrl": "https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "lrv-tyres",
+      "machineId": "apollo15-rover",
+      "verified": false,
+      "text": {
+        "en": "Rubber can crack in the Moon's cold and heat, and air tyres can pop."
+      },
+      "sourceTitle": "TODO(fact): Story Script asks the fact-checker to confirm the wording",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "apollo17-last",
+      "machineId": "apollo17",
+      "verified": true,
+      "text": {
+        "en": "In December 1972 Apollo 17's Gene Cernan and Harrison Schmitt explored Taurus-Littrow for about 75 hours: the last Apollo astronauts on the Moon."
+      },
+      "sourceTitle": "NASA APOD: Apollo 17, Last on the Moon",
+      "sourceUrl": "https://science.nasa.gov/image-article/apod-2002-december-12-apollo-17-last-on-the-moon/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo17-fender",
+      "machineId": "apollo17",
+      "verified": true,
+      "text": {
+        "en": "The rover's broken fender was replaced with four maps, duct tape and two clamps."
+      },
+      "sourceTitle": "NASA: Duct Tape Saves the Day!",
+      "sourceUrl": "https://www.nasa.gov/image-article/duct-tape-saves-day/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "apollo17-rover-distance",
+      "machineId": "apollo17",
+      "verified": true,
+      "text": {
+        "en": "Apollo 17's rover drove 35.9 km, the most of the three Moon cars."
+      },
+      "sourceTitle": "NSSDCA: The Apollo Lunar Roving Vehicle",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "lro-apollo-sites",
+      "machineId": "lro",
+      "verified": true,
+      "text": {
+        "en": "From about 50 km up, LRO photographed all six Apollo sites, with descent stages, footpaths and the last three rovers."
+      },
+      "sourceTitle": "NASA: 15 Years Ago, LRO Begins Moon Mapping Mission",
+      "sourceUrl": "https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "lro-status",
+      "machineId": "lro",
+      "verified": true,
+      "text": {
+        "en": "LRO (launched 18 June 2009) was still operating after 15 years, with fuel planned until 2027 (NASA, 2024)."
+      },
+      "sourceTitle": "NASA: 15 Years Ago, LRO Begins Moon Mapping Mission",
+      "sourceUrl": "https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "mars-trip-time",
+      "machineId": null,
+      "verified": false,
+      "text": {
+        "en": "Mars 2020 launched 30 July 2020 and landed 18 February 2021 (about 7 months)."
+      },
+      "sourceTitle": "TODO(fact): launch date not on the pages checked in docs/05",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "mars-delay",
+      "machineId": null,
+      "verified": true,
+      "text": {
+        "en": "Signals between Earth and Mars take 3 to 22 minutes one way, so rovers are driven by plans, not joysticks."
+      },
+      "sourceTitle": "NASA: Speaking Percy's Language",
+      "sourceUrl": "https://science.nasa.gov/missions/mars-2020-perseverance/speaking-percys-language-how-to-talk-so-perseverance-will-listen/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "mars-facts",
+      "machineId": null,
+      "verified": false,
+      "text": {
+        "en": "Mars dust contains iron oxide (rust); average temperature about -60 °C; air about 1% as thick as Earth's."
+      },
+      "sourceTitle": "TODO(fact): NASA Mars facts (Story Script: 'To check')",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "viking1-landing",
+      "machineId": "viking1",
+      "verified": true,
+      "text": {
+        "en": "Viking 1 landed on 20 July 1976 at Chryse Planitia, the 'Golden Plain'."
+      },
+      "sourceTitle": "NASA Science: Viking Project",
+      "sourceUrl": "https://science.nasa.gov/mission/viking/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "viking1-first-photo",
+      "machineId": "viking1",
+      "verified": true,
+      "text": {
+        "en": "Minutes after landing, Viking 1 took the first photograph from the surface of Mars; it shows its own footpad."
+      },
+      "sourceTitle": "JPL: First Photograph Taken on Mars Surface",
+      "sourceUrl": "https://www.jpl.nasa.gov/images/pia00381-first-photograph-taken-on-mars-surface/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "viking1-soil",
+      "machineId": "viking1",
+      "verified": true,
+      "text": {
+        "en": "Its robotic arm scooped soil for tests looking for signs of life; the results showed unexpected chemistry but no clear evidence of life."
+      },
+      "sourceTitle": "NASA Science: Viking Project",
+      "sourceUrl": "https://science.nasa.gov/mission/viking/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "viking1-duration",
+      "machineId": "viking1",
+      "verified": true,
+      "text": {
+        "en": "Viking 1 worked for more than six years; its final transmission was on 11 November 1982."
+      },
+      "sourceTitle": "NASA Science: Viking Project",
+      "sourceUrl": "https://science.nasa.gov/mission/viking/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "pathfinder-landing",
+      "machineId": "pathfinder-sojourner",
+      "verified": true,
+      "text": {
+        "en": "Mars Pathfinder landed on 4 July 1997 in Ares Vallis, wrapped in airbags, and bounced at least 15 times."
+      },
+      "sourceTitle": "NASA: 25 Years Ago, Mars Pathfinder Launches to Deploy Sojourner",
+      "sourceUrl": "https://www.nasa.gov/history/25-years-ago-mars-pathfinder-launches-to-mars-to-deploy-sojourner-the-first-planetary-rover/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "sojourner",
+      "machineId": "pathfinder-sojourner",
+      "verified": true,
+      "text": {
+        "en": "Sojourner was the first rover on another planet; it weighed 23 lb, was designed for one week, worked for 83 days and never went more than 39 feet from the lander."
+      },
+      "sourceTitle": "NASA: 25 Years Ago, Mars Pathfinder Launches to Deploy Sojourner",
+      "sourceUrl": "https://www.nasa.gov/history/25-years-ago-mars-pathfinder-launches-to-mars-to-deploy-sojourner-the-first-planetary-rover/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "opp-mission",
+      "machineId": "opportunity",
+      "verified": true,
+      "text": {
+        "en": "Opportunity landed on 24 January 2004 in Meridiani Planum; designed for 90 Martian days and 1,000 m, it drove more than 45 km over almost 15 years."
+      },
+      "sourceTitle": "NASA: Opportunity Rover Mission on Mars Comes to End",
+      "sourceUrl": "https://science.nasa.gov/missions/mer/nasas-opportunity-rover-mission-on-mars-comes-to-end/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "opp-hematite",
+      "machineId": "opportunity",
+      "verified": true,
+      "text": {
+        "en": "Opportunity found hematite, a mineral that forms in water."
+      },
+      "sourceTitle": "NASA: Opportunity Rover Mission on Mars Comes to End",
+      "sourceUrl": "https://science.nasa.gov/missions/mer/nasas-opportunity-rover-mission-on-mars-comes-to-end/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "opp-storm",
+      "machineId": "opportunity",
+      "verified": true,
+      "text": {
+        "en": "In June 2018 a planet-wide dust storm hid the Sun from Opportunity's solar panels; its final communication was on 10 June 2018, and NASA sent more than a thousand commands to it."
+      },
+      "sourceTitle": "NASA: Opportunity Rover Mission on Mars Comes to End",
+      "sourceUrl": "https://science.nasa.gov/missions/mer/nasas-opportunity-rover-mission-on-mars-comes-to-end/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "opp-crater-landing",
+      "machineId": "opportunity",
+      "verified": false,
+      "text": {
+        "en": "Opportunity's airbags bounced and rolled into a small crater."
+      },
+      "sourceTitle": "TODO(fact): not on the Opportunity page checked in docs/05",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "curiosity-skycrane",
+      "machineId": "curiosity",
+      "verified": true,
+      "text": {
+        "en": "Curiosity landed on 6 August 2012 in Gale Crater, lowered on cables by a rocket-powered sky crane."
+      },
+      "sourceTitle": "NASA: Curiosity Celebrates 10 Years on Mars",
+      "sourceUrl": "https://www.nasa.gov/history/curiosity-celebrates-10-years-on-mars/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "curiosity-habitable",
+      "machineId": "curiosity",
+      "verified": true,
+      "text": {
+        "en": "Curiosity found that ancient Mars had water and places where microbes could have lived."
+      },
+      "sourceTitle": "NASA: Curiosity Celebrates 10 Years on Mars",
+      "sourceUrl": "https://www.nasa.gov/history/curiosity-celebrates-10-years-on-mars/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "curiosity-laser",
+      "machineId": "curiosity",
+      "verified": true,
+      "text": {
+        "en": "Its ChemCam laser zaps rocks and reads the light to tell what they are made of."
+      },
+      "sourceTitle": "NASA: Curiosity Celebrates 10 Years on Mars",
+      "sourceUrl": "https://www.nasa.gov/history/curiosity-celebrates-10-years-on-mars/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "curiosity-climb",
+      "machineId": "curiosity",
+      "verified": true,
+      "text": {
+        "en": "Curiosity is climbing Mount Sharp; it reached 1 km of elevation gain on 26 August 2026."
+      },
+      "sourceTitle": "NASA: Curiosity Reaches 1-Kilometer Elevation Gain",
+      "sourceUrl": "https://science.nasa.gov/mars/curiosity-reaches-1-kilometer-elevation-gain/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "curiosity-status",
+      "machineId": "curiosity",
+      "verified": true,
+      "text": {
+        "en": "Curiosity was still operating in September 2026."
+      },
+      "sourceTitle": "NASA: Curiosity Blog, Sols 4988-4994",
+      "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "insight-quakes",
+      "machineId": "insight",
+      "verified": true,
+      "text": {
+        "en": "InSight (landed 26 November 2018, Elysium Planitia) recorded 1,319 marsquakes, revealing Mars' crust, mantle and core."
+      },
+      "sourceTitle": "NASA: NASA Retires InSight Mars Lander Mission",
+      "sourceUrl": "https://www.nasa.gov/missions/insight/nasa-retires-insight-mars-lander-mission-after-years-of-science/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "insight-end",
+      "machineId": "insight",
+      "verified": true,
+      "text": {
+        "en": "Dust piled on InSight's solar panels; its last transmission was on 15 December 2022."
+      },
+      "sourceTitle": "NSSDCA: InSight Lander; NASA: InSight retired",
+      "sourceUrl": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2018-042A",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "perseverance-landing",
+      "machineId": "perseverance-parachute",
+      "verified": true,
+      "text": {
+        "en": "Perseverance landed in Jezero Crater on 18 February 2021."
+      },
+      "sourceTitle": "NASA Science: Mars 2020 Perseverance",
+      "sourceUrl": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "parachute-code",
+      "machineId": "perseverance-parachute",
+      "verified": true,
+      "text": {
+        "en": "The parachute's pattern encodes DARE MIGHTY THINGS in binary, with JPL's coordinates in the outer band."
+      },
+      "sourceTitle": "NASA: Mars Decoder Ring",
+      "sourceUrl": "https://science.nasa.gov/resource/mars-decoder-ring/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "parachute-gear",
+      "machineId": "perseverance-parachute",
+      "verified": true,
+      "text": {
+        "en": "The 21.5 m parachute, the largest ever deployed on Mars, and the backshell lie on the ground; Ingenuity photographed them on 19 April 2022."
+      },
+      "sourceTitle": "JPL: NASA's Mars Helicopter Spots Gear That Helped Perseverance Rover Land",
+      "sourceUrl": "https://www.jpl.nasa.gov/news/nasas-mars-helicopter-spots-gear-that-helped-perseverance-rover-land/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "seven-minutes",
+      "machineId": "perseverance-parachute",
+      "verified": false,
+      "text": {
+        "en": "Landing on Mars takes about seven minutes ('seven minutes of terror')."
+      },
+      "sourceTitle": "TODO(fact): not on the pages checked in docs/05",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "ingenuity-design",
+      "machineId": "ingenuity",
+      "verified": true,
+      "text": {
+        "en": "Ingenuity weighs about 1.8 kg; its two rotors spin at about 2,400 rpm; it rode to Mars under the rover's belly."
+      },
+      "sourceTitle": "NASA: 6 Things to Know About Ingenuity",
+      "sourceUrl": "https://www.nasa.gov/solar-system/6-things-to-know-about-nasas-ingenuity-mars-helicopter/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ingenuity-flights",
+      "machineId": "ingenuity",
+      "verified": true,
+      "text": {
+        "en": "On 19 April 2021 Ingenuity made the first powered, controlled flight on another planet; up to five test flights were planned and it flew 72."
+      },
+      "sourceTitle": "JPL: After Three Years on Mars, NASA's Ingenuity Helicopter Mission Ends",
+      "sourceUrl": "https://www.jpl.nasa.gov/news/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ingenuity-end",
+      "machineId": "ingenuity",
+      "verified": true,
+      "text": {
+        "en": "Rotor damage on its 72nd flight, on 18 January 2024, ended its flights."
+      },
+      "sourceTitle": "JPL: After Three Years on Mars, NASA's Ingenuity Helicopter Mission Ends",
+      "sourceUrl": "https://www.jpl.nasa.gov/news/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ingenuity-testbed",
+      "machineId": "ingenuity",
+      "verified": true,
+      "text": {
+        "en": "Ingenuity is now a stationary testbed: it wakes daily to test its systems and record data; its memory can hold about 20 years of daily data."
+      },
+      "sourceTitle": "JPL: NASA's Ingenuity Mars Helicopter Team Says Goodbye (for Now)",
+      "sourceUrl": "https://www.jpl.nasa.gov/news/nasas-ingenuity-mars-helicopter-team-says-goodbye-for-now",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "perseverance-delta",
+      "machineId": "perseverance-depot",
+      "verified": true,
+      "text": {
+        "en": "Jezero Crater has an ancient river delta, a good place to look for signs of ancient life."
+      },
+      "sourceTitle": "NASA Science: Mars 2020 Perseverance",
+      "sourceUrl": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "perseverance-depot",
+      "machineId": "perseverance-depot",
+      "verified": true,
+      "text": {
+        "en": "Perseverance left 10 sample tubes in a zigzag at Three Forks (completed 28 January 2023): the first sample depot on another world, a backup for Mars Sample Return."
+      },
+      "sourceTitle": "NASA: Perseverance Rover Completes Mars Sample Depot",
+      "sourceUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-completes-mars-sample-depot/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "perseverance-status",
+      "machineId": "perseverance-depot",
+      "verified": true,
+      "text": {
+        "en": "Perseverance was still active, with 45.22 km driven, as of 11 October 2026."
+      },
+      "sourceTitle": "NASA Science: Mars 2020 Perseverance",
+      "sourceUrl": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "pioneer10",
+      "machineId": "pioneer10",
+      "verified": true,
+      "text": {
+        "en": "Pioneer 10 launched on 2 March 1972, was first through the asteroid belt and first to fly past Jupiter (4 December 1973); its last signal came on 23 January 2003; it is heading toward Aldebaran."
+      },
+      "sourceTitle": "NASA Science: Pioneer 10",
+      "sourceUrl": "https://science.nasa.gov/mission/pioneer-10/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "pioneer10-plaque",
+      "machineId": "pioneer10",
+      "verified": true,
+      "text": {
+        "en": "Pioneer 10 carries a plaque showing people, the solar system and a map to find the Sun (shown in the app as our own clothed pictogram)."
+      },
+      "sourceTitle": "NASA Science: Pioneer 10",
+      "sourceUrl": "https://science.nasa.gov/mission/pioneer-10/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "voyager2",
+      "machineId": "voyager2",
+      "verified": true,
+      "text": {
+        "en": "Voyager 2 launched on 20 August 1977 and is the only spacecraft to visit Uranus (1986) and Neptune (1989); it entered interstellar space in 2018 and is still sending data."
+      },
+      "sourceTitle": "NASA Science: Voyager 2",
+      "sourceUrl": "https://science.nasa.gov/mission/voyager/voyager-2/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "voyager2-distance-power",
+      "machineId": "voyager2",
+      "verified": false,
+      "text": {
+        "en": "Voyager 2 is about 21 billion km away, on very low power, and carries a golden record."
+      },
+      "sourceTitle": "TODO(fact): not on the Voyager 2 page checked in docs/05",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "voyager1",
+      "machineId": "voyager1",
+      "verified": true,
+      "text": {
+        "en": "Voyager 1 launched on 5 September 1977, entered interstellar space on 25 August 2012 and is the most distant human-made object; it carries a Golden Record of greetings, sounds and music."
+      },
+      "sourceTitle": "NASA Science: Voyager 1",
+      "sourceUrl": "https://science.nasa.gov/mission/voyager/voyager-1/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "voyager1-lightday",
+      "machineId": "voyager1",
+      "verified": true,
+      "text": {
+        "en": "On 18 November 2026 Voyager 1 becomes one light-day from Earth."
+      },
+      "sourceTitle": "NASA Voyager mission status; NASA Science: Voyager 1",
+      "sourceUrl": "https://science.nasa.gov/mission/voyager/voyager-1/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "voyager1-pale-blue-dot",
+      "machineId": "voyager1",
+      "verified": true,
+      "text": {
+        "en": "On 14 February 1990 Voyager 1 photographed Earth as 'a point of light about a pixel in size'."
+      },
+      "sourceTitle": "NASA: Voyager 1's Pale Blue Dot",
+      "sourceUrl": "https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "voyager1-instruments",
+      "machineId": "voyager1",
+      "verified": false,
+      "text": {
+        "en": "Two science instruments are still on."
+      },
+      "sourceTitle": "TODO(fact): docs/05 says NASA pages give two different counts; do not name a number",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "nh-pluto",
+      "machineId": "new-horizons",
+      "verified": true,
+      "text": {
+        "en": "New Horizons launched on 19 January 2006 and flew past Pluto on 14 July 2015, showing a heart-shaped nitrogen-ice glacier about 1,000 km wide."
+      },
+      "sourceTitle": "NASA Science: New Horizons",
+      "sourceUrl": "https://science.nasa.gov/mission/new-horizons/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "nh-arrokoth",
+      "machineId": "new-horizons",
+      "verified": true,
+      "text": {
+        "en": "On 1 January 2019 New Horizons flew past Arrokoth, the farthest world explored up close; the spacecraft is healthy."
+      },
+      "sourceTitle": "NASA Science: New Horizons",
+      "sourceUrl": "https://science.nasa.gov/mission/new-horizons/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "nh-tombaugh",
+      "machineId": "new-horizons",
+      "verified": false,
+      "text": {
+        "en": "New Horizons carries some of Clyde Tombaugh's ashes."
+      },
+      "sourceTitle": "TODO(fact): cut in the Final Review (not on the NASA pages used)",
+      "sourceUrl": null,
+      "checked": null
+    },
+    {
+      "id": "artemis2",
+      "machineId": null,
+      "verified": true,
+      "text": {
+        "en": "Artemis II (launched 1 April 2026, splashdown 10 April 2026) flew four astronauts around the Moon, farther from Earth than any humans before; NASA plans landings near the Moon's south pole in 2028."
+      },
+      "sourceTitle": "NASA: NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "coords-viking1",
+      "machineId": "viking1",
+      "verified": true,
+      "kind": "coordinates",
+      "coords": {
+        "body": "mars",
+        "lat": 22.483,
+        "lon": -47.94
+      },
+      "text": {
+        "en": "viking1 site on the mars: 22.483°N, 47.94°W."
+      },
+      "sourceTitle": "NASA Science: Viking 1",
+      "sourceUrl": "https://science.nasa.gov/mission/viking-1/",
+      "checkUrl": "https://science.nasa.gov/mission/viking-1/",
+      "checked": "2026-11-12",
+      "note": "Quote: \"Lander 1 set down safely at 22.483 degrees north latitude and 47.94 degrees west longitude at 11:53:06 UT July 20, 1976.\""
+    },
+    {
+      "id": "coords-ranger7",
+      "machineId": "ranger7",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": null,
+      "text": {
+        "en": "Landing/impact site coordinates of ranger7 on the moon."
+      },
+      "sourceTitle": "TODO(fact): NSSDC Ranger 7 page",
+      "sourceUrl": null,
+      "checkUrl": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-041A",
+      "checked": null,
+      "note": "No value seen yet."
+    },
+    {
+      "id": "coords-surveyor1",
+      "machineId": "surveyor1",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": null,
+      "text": {
+        "en": "Landing/impact site coordinates of surveyor1 on the moon."
+      },
+      "sourceTitle": "TODO(fact): NSSDC lunar sites table",
+      "sourceUrl": null,
+      "checkUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+      "checked": null,
+      "note": "No value seen yet."
+    },
+    {
+      "id": "coords-surveyor3",
+      "machineId": "surveyor3",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": null,
+      "text": {
+        "en": "Landing/impact site coordinates of surveyor3 on the moon."
+      },
+      "sourceTitle": "TODO(fact): NSSDC lunar sites table",
+      "sourceUrl": null,
+      "checkUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+      "checked": null,
+      "note": "No value seen yet."
+    },
+    {
+      "id": "coords-apollo11",
+      "machineId": "apollo11-eagle",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "moon",
+        "lat": 0.67416,
+        "lon": 23.47314
+      },
+      "text": {
+        "en": "apollo11-eagle site on the moon: 0.67416°N, 23.47314°E."
+      },
+      "sourceTitle": "TODO(fact): NSSDC Apollo landing site coordinates",
+      "sourceUrl": null,
+      "checkUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (LM 0.67416, 23.47314). Confirm on the page."
+    },
+    {
+      "id": "coords-apollo12",
+      "machineId": "apollo12-intrepid",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "moon",
+        "lat": -3.0128,
+        "lon": -23.4219
+      },
+      "text": {
+        "en": "apollo12-intrepid site on the moon: 3.0128°S, 23.4219°W."
+      },
+      "sourceTitle": "TODO(fact): NSSDC Apollo landing site coordinates",
+      "sourceUrl": null,
+      "checkUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (LM -3.0128, -23.4219). Confirm on the page."
+    },
+    {
+      "id": "coords-apollo15",
+      "machineId": "apollo15-rover",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "moon",
+        "lat": 26.132,
+        "lon": 3.633
+      },
+      "text": {
+        "en": "apollo15-rover site on the moon: 26.132°N, 3.633°E."
+      },
+      "sourceTitle": "TODO(fact): NSSDC Apollo Lunar Landings",
+      "sourceUrl": null,
+      "checkUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (26.132 N, 3.633 E). Confirm on the page."
+    },
+    {
+      "id": "coords-apollo17",
+      "machineId": "apollo17",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "moon",
+        "lat": 20.191,
+        "lon": 30.772
+      },
+      "text": {
+        "en": "apollo17 site on the moon: 20.191°N, 30.772°E."
+      },
+      "sourceTitle": "TODO(fact): NSSDC Apollo Lunar Landings",
+      "sourceUrl": null,
+      "checkUrl": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (20.191 N, 30.772 E). Confirm on the page."
+    },
+    {
+      "id": "coords-pathfinder",
+      "machineId": "pathfinder-sojourner",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "mars",
+        "lat": 19.47,
+        "lon": -33.25
+      },
+      "text": {
+        "en": "pathfinder-sojourner site on the mars: 19.47°N, 33.25°W."
+      },
+      "sourceTitle": "TODO(fact): NASA GISS Mars24 landers",
+      "sourceUrl": null,
+      "checkUrl": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (326.75°E = 33.25°W, 19.47°N). Confirm on the page."
+    },
+    {
+      "id": "coords-opportunity",
+      "machineId": "opportunity",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "mars",
+        "lat": -1.95,
+        "lon": -5.53
+      },
+      "text": {
+        "en": "opportunity site on the mars: 1.95°S, 5.53°W."
+      },
+      "sourceTitle": "TODO(fact): NASA GISS Mars24 landers",
+      "sourceUrl": null,
+      "checkUrl": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (354.47°E = 5.53°W, 1.95°S). Confirm on the page."
+    },
+    {
+      "id": "coords-curiosity",
+      "machineId": "curiosity",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "mars",
+        "lat": -4.59,
+        "lon": 137.44
+      },
+      "text": {
+        "en": "curiosity site on the mars: 4.59°S, 137.44°E."
+      },
+      "sourceTitle": "TODO(fact): NASA GISS Mars24 landers",
+      "sourceUrl": null,
+      "checkUrl": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (137.44°E, 4.59°S). Confirm on the page."
+    },
+    {
+      "id": "coords-insight",
+      "machineId": "insight",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "mars",
+        "lat": 4.5,
+        "lon": 135.62
+      },
+      "text": {
+        "en": "insight site on the mars: 4.5°N, 135.62°E."
+      },
+      "sourceTitle": "TODO(fact): NASA GISS Mars24 landers",
+      "sourceUrl": null,
+      "checkUrl": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (135.62°E, 4.50°N). Confirm on the page."
+    },
+    {
+      "id": "coords-perseverance",
+      "machineId": "perseverance-depot",
+      "verified": false,
+      "kind": "coordinates",
+      "coords": {
+        "body": "mars",
+        "lat": 18.44,
+        "lon": 77.45
+      },
+      "text": {
+        "en": "perseverance-depot site on the mars: 18.44°N, 77.45°E."
+      },
+      "sourceTitle": "TODO(fact): NASA GISS Mars24 landers",
+      "sourceUrl": null,
+      "checkUrl": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+      "checked": null,
+      "note": "Candidate from a search excerpt (77.45°E, 18.44°N). Confirm on the page."
+    },
+    {
+      "id": "apollo11-steered",
+      "machineId": "apollo11-eagle",
+      "verified": true,
+      "kind": "nasa",
+      "text": {
+        "en": "The landing was partly flown by hand: Armstrong steered to avoid a crater."
+      },
+      "sourceTitle": "NASA: Apollo 11 Mission Overview (Build Spec §8)",
+      "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ingenuity-autonomous",
+      "machineId": "ingenuity",
+      "verified": true,
+      "kind": "nasa",
+      "text": {
+        "en": "No joystick: commands are sent well in advance and Ingenuity decides how to fly."
+      },
+      "sourceTitle": "NASA: 6 Things to Know About NASA's Ingenuity Mars Helicopter (Build Spec §8)",
+      "sourceUrl": "https://www.nasa.gov/solar-system/6-things-to-know-about-nasas-ingenuity-mars-helicopter/",
+      "checked": "2026-11-12"
+    }
+  ]
+}

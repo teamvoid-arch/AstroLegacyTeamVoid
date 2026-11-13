@@ -1,0 +1,89 @@
+{
+  "_note": "Team script, 13 Nov 2026 ('Vimor space journey: script o game concept'). Bangla = the team's own text; English = the same meaning for the American voices. These beats replace the Final version's opening (1.1–1.3 and the globe tour). Facts: 'crashed on purpose' = Ranger 7; 'still working' = LRO, Voyager (verified in facts.json).",
+  "intro": [
+    {
+      "id": "intro-1", "world": "earth", "scene": "1.1", "year": 2026, "stage": { "from": "1.1-b1" },
+      "title": { "en": "Welcome", "bn": "স্বাগতম" },
+      "lines": [
+        { "id": "intro-1.01", "speaker": "vimo", "emotion": "excited", "vimo": { "screen": "centre", "size": "L", "face": "excited", "gesture": "wave" },
+          "text": { "en": "Hello, space enthusiasts! Welcome to our cosmic journey!", "bn": "হ্যালো স্পেস এনথুসিয়াস্টরা! স্বাগতম আমাদের এই মহাজাগতিক যাত্রায়।" } }
+      ]
+    },
+    {
+      "id": "intro-2", "world": "earth", "scene": "1.1", "year": 2026, "stage": { "from": "1.1-b2" },
+      "title": { "en": "Meet VIMO", "bn": "ভিমোর সঙ্গে পরিচয়" },
+      "lines": [
+        { "id": "intro-2.01", "speaker": "vimo", "emotion": "excited", "vimo": { "screen": "right", "size": "M", "face": "happy", "gesture": "salute" },
+          "text": { "en": "Hi! I'm VIMO, your little astronaut. I'll be right beside you as your guide, all through this story.", "bn": "হায়! আমি ভিমো—তোমাদের ছোট্ট এস্ট্রোনাট। এই সম্পূর্ণ স্টোরি জুড়ে আমি তোমাদের বিশ্বস্ত গাইড হিসেবে পাশে থাকব।" } },
+        { "id": "intro-2.02", "speaker": "vimo", "emotion": "explaining", "vimo": { "screen": "right", "size": "M", "face": "thinking", "gesture": "point" },
+          "text": { "en": "To help all of us, people have sent lots of hardware from Earth, like rovers, landers and probes, to the Moon, to Mars and into deep space.", "bn": "আমাদের মানবজাতির কল্যাণে পৃথিবী থেকে অসংখ্য হার্ডওয়ার—যেমন রোভার্স, ল্যান্ডার ও প্রোব—চাঁদে, মঙ্গলে এবং গভীর মহাকাশে পাঠানো হয়েছে।" } },
+        { "id": "intro-2.03", "speaker": "vimo", "emotion": "curious", "vimo": { "screen": "right", "size": "M", "face": "curious", "gesture": "count" },
+          "text": { "en": "Some of them were crashed on purpose. And some are still working out there today.", "bn": "এর কিছু অংশ ইচ্ছাকৃতভাবে ধ্বংস করা হয়েছে, আবার কিছু হার্ডওয়ার আজও মহাকাশে সচল রয়ে গেছে।" } },
+        { "id": "intro-2.04", "speaker": "vimo", "emotion": "curious", "vimo": { "screen": "right", "size": "M", "face": "curious", "gesture": "listen" },
+          "text": { "en": "When were they sent? Why, and how? And how are they still helping us? We'll find out all of it, together.", "bn": "এগুলোকে কখন, কেন এবং কীভাবে পাঠানো হলো এবং মানবজাতিকে এরা কীভাবে সাহায্য করছে—সেসবের আদ্যোপান্ত আমরা বিস্তারিত জানব।" } },
+        { "id": "intro-2.05", "speaker": "vimo", "emotion": "wonder", "vimo": { "screen": "centre", "size": "L", "face": "amazed", "gesture": "cheer" },
+          "text": { "en": "But first, let me show you what space really is, and just how huge it is!", "bn": "তবে তার আগে চলো, মহাকাশ আসলে কী এবং এর বিশালতা কেমন, তা তোমাদের চোখের সামনে ফুটিয়ে তুলি।" } }
+      ]
+    },
+    {
+      "id": "launch", "world": "earth", "scene": "1.3", "year": 2026, "stage": { "from": "1.3-b7" }, "hold": 9,
+      "title": { "en": "Blast off!", "bn": "ব্লাস্ট অফ!" },
+      "lines": [
+        { "id": "launch.01", "speaker": "vimo", "emotion": "excited", "vimo": { "screen": "left", "size": "M", "face": "brave", "gesture": "count" },
+          "text": { "en": "One, two, three... blast off!", "bn": "ওয়ান, টু, থ্রি... ব্লাস্ট অফ!" } }
+      ]
+    },
+    {
+      "id": "atmosphere", "world": "earth", "scene": "1.2", "year": 2026, "stage": { "from": "1.2-b4", "fx": ["rise", "atmo"] }, "hold": 7,
+      "title": { "en": "Through the sky", "bn": "আকাশ পেরিয়ে" },
+      "labels": [ { "en": "Atmosphere", "bn": "বায়ুমণ্ডল" }, { "en": "Ozone layer", "bn": "ওজন স্তর" }, { "en": "Space!", "bn": "মহাকাশ!" } ],
+      "lines": []
+    },
+    {
+      "id": "solar", "world": "earth", "scene": "1.3", "year": 2026, "stage": { "from": "3.1-b1", "fx": [], "era": "space", "scene": "solar" }, "hold": 7,
+      "title": { "en": "Our Solar System", "bn": "আমাদের সৌরজগৎ" },
+      "labels": [ { "en": "Our Solar System", "bn": "আমাদের সৌরজগৎ" }, { "en": "Next stop: the Moon", "bn": "পরের গন্তব্য: চাঁদ" } ],
+      "lines": []
+    },
+    {
+      "id": "quick-moon", "world": "moon", "scene": "quick", "year": 1964, "tour": "moon", "quick": "moon",
+      "title": { "en": "Quick tour: the Moon", "bn": "কুইক ট্যুর: চাঁদ" },
+      "lines": [
+        { "id": "quick-moon.01", "speaker": "vimo", "emotion": "excited", "vimo": { "screen": "bottom-left", "size": "S", "face": "excited", "gesture": "loop" },
+          "text": { "en": "This is a quick tour! Zoom, zoom! You'll see the whole map in a minute, and later you can explore every machine in detail.", "bn": "এটা একটা কুইক ট্যুর! এর ফলে তুমি পুরো ম্যাপটা বুঝতে পারবে, পরে তুমি প্রতিটা হার্ডওয়ার বিস্তারিত জানতে পারবে।" } }
+      ]
+    },
+    {
+      "id": "quick-mars", "world": "mars", "scene": "quick", "year": 1976, "tour": "mars", "quick": "mars",
+      "title": { "en": "Quick tour: Mars", "bn": "কুইক ট্যুর: মঙ্গল" },
+      "lines": [
+        { "id": "quick-mars.01", "speaker": "vimo", "emotion": "excited", "vimo": { "screen": "bottom-left", "size": "S", "face": "excited", "gesture": "point" },
+          "text": { "en": "Come on, now let me show you the hardware on Mars!", "bn": "চলো, এবার তোমাকে মঙ্গলের হার্ডওয়ারগুলো দেখাই।" } }
+      ]
+    },
+    {
+      "id": "quick-deep", "world": "deep", "scene": "quick", "year": 1972, "tour": "deep", "quick": "deep",
+      "title": { "en": "Quick tour: deep space", "bn": "কুইক ট্যুর: গভীর মহাকাশ" },
+      "lines": [
+        { "id": "quick-deep.01", "speaker": "vimo", "emotion": "wonder", "vimo": { "screen": "bottom-left", "size": "S", "face": "amazed", "gesture": "point" },
+          "text": { "en": "Now let's meet the hardware we sent into deep space!", "bn": "এবার চলো, ডিপ স্পেস বা গভীর মহাকাশে যেসকল হার্ডওয়ার পাঠানো হয়েছে, সেগুলোর সঙ্গে পরিচিত হই।" } }
+      ]
+    },
+    {
+      "id": "lobby", "world": "earth", "scene": "lobby", "year": 2026, "lobby": true,
+      "title": { "en": "The lobby", "bn": "লবি" },
+      "lines": [
+        { "id": "lobby.01", "speaker": "vimo", "emotion": "hopeful", "vimo": { "screen": "top-right", "size": "S", "face": "happy", "gesture": "wave" },
+          "text": { "en": "I've shown you everything, very quickly. Now let's learn the details! Tap the place whose hardware you want to see.", "bn": "তোমাকে তো খুব সংক্ষেপে সবকিছু দেখিয়ে আনলাম। এবার চলো, বিস্তারিত জেনে নেওয়া যাক! তুমি যে জায়গার হার্ডওয়ার দেখতে চাও, সেখানে ক্লিক করো।" } }
+      ]
+    }
+  ],
+  "after": {
+    "id": "after-{world}", "scene": "choice", "after": true,
+    "title": { "en": "What next?", "bn": "এরপর কী?" },
+    "lines": [
+      { "id": "after-{world}.01", "speaker": "vimo", "emotion": "hopeful", "vimo": { "screen": "top-right", "size": "S", "face": "proud", "gesture": "thumbs" },
+        "text": { "en": "You can try Experience mode now, or keep going with the story!", "bn": "চাইলে এখন এক্সপেরিয়েন্স মোড ট্রাই করতে পারো, অথবা স্টোরি কন্টিনিউ করতে পারো!" } }
+    ]
+  }
+}
