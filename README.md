@@ -2,7 +2,7 @@
 
 **One-line goal:** a school-age kid opens Astro Legacy on a phone, follows VIMO from the Moon to Mars to deep space, and leaves understanding that **old machines are not junk: each one changed what we know, and many still talk to us.**
 
-- **Live link:** _add after deploy_ (see [Deploy](#deploy))
+- **Live link:** https://teamvoid-arch.github.io/AstroLegacyTeamVoid/ (open in Chrome on a phone or laptop; "Ask VIMO" needs the local server, see Deploy)
 - **Team:** Team VOID (Bangladesh) · Story & design: @NH asib
 - **Licence:** Apache 2.0 ([LICENSE](LICENSE), [NOTICE](NOTICE)) · **Not affiliated with or endorsed by NASA.**
 - Judge guide: [JUDGES.md](JUDGES.md) · Data: [DATA.md](DATA.md) · Every fact: [SOURCES.md](SOURCES.md) · AI tools: [AI_USE.md](AI_USE.md)
